@@ -1,4 +1,3 @@
-```markdown
 # Let's Make Web Development Fun: Personal Portfolio Adventure!
 
 Welcome to the Personal Portfolio Adventure! Building a website can be loads of fun, and in this project, we'll embark on a creative journey to craft your own personal portfolio website using the enchanting powers of HTML and CSS. Get ready to explore the magical world of web development, where you'll create web pages, sprinkle them with style, and add just a touch of interactivity.
@@ -109,4 +108,3 @@ section {
    - If you wish to share your enchanted kingdom with the world, consider hosting it on platforms like GitHub Pages or Netlify for an audience of spellbound admirers.
 
 This whimsical adventure introduces you to the enchanting world of web development as you craft your very own personal portfolio kingdom. With every spell of HTML and CSS, you'll breathe life into your website. Let your creativity flow as you build your mystical online realm, and remember, the web is your canvas, and you are the master wizard! 🧙‍♂️🌟
-```
