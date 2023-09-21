@@ -1,4 +1,4 @@
-reating a simple website is a great way to introduce web development. In this project, we'll build a basic personal portfolio website using HTML and CSS. This will cover the fundamentals of web development, including creating web pages, styling them, and adding basic interactivity.
+Creating a simple website is a great way to introduce web development. In this project, we'll build a basic personal portfolio website using HTML and CSS. This will cover the fundamentals of web development, including creating web pages, styling them, and adding basic interactivity.
 
 ### Project: Personal Portfolio Website
 
