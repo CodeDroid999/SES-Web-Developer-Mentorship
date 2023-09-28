@@ -21,17 +21,7 @@ Welcome, aspiring web enthusiasts, to the first day of our Web Mentorship Progra
 4. **Browsers and Search Engines**
    - Learn about web browsers and their significance in accessing the internet.
    - Master the art of efficient web searching with [search engines](https://www.google.com/intl/en/search/howsearchworks/).
-
-5. **Staying Safe Online**
-   - Get acquainted with online security essentials, including creating [strong passwords](https://www.getsafeonline.org/protecting-yourself/passwords/) and recognizing [phishing attempts](https://www.microsoft.com/en-us/security/blog/2020/07/02/how-to-recognize-phishing-attacks-and-protect-yourself-from-scams/).
-
-6. **The Internet's Influence on Society**
-   - Explore how the internet has reshaped communication, business, education, and more.
-   - Delve into both the opportunities and challenges it presents.
-
-7. **Your First Task: Online Scavenger Hunt**
-   - Put your newfound knowledge to the test by embarking on a virtual scavenger hunt to find and share interesting online resources related to a topic of your choice.
-
+### Tasks
 ### Conclusion
 Today marks the beginning of an exciting journey into the vast realm of the internet. We hope you're as enthusiastic as we are about exploring this digital landscape together.
 
