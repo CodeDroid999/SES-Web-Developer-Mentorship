@@ -1,4 +1,4 @@
-**Module 1: Foundation (Month 1)**
+## **Module 1: Foundation**
 
 **Description:**
 Module 1 serves as the bedrock of your web mentorship journey. This foundational module is designed to equip you with the essential skills and knowledge required to kickstart your career in web development. Over the course of one month, you will delve into the core concepts that underpin the web and lay the groundwork for your future success.
