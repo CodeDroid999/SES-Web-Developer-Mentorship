@@ -43,6 +43,15 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 - **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
 
 ---
+---
+
+### Participant 6: [Your Name]
+
+- **Blog Post:** [Link to Your Blog Post](insert_link_here)
+- **GitHub Repository:** [Link to Your GitHub Repo](insert_link_here)
+- **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
+
+---
 
 *Please replace "insert_link_here" with the actual URLs of your blog post, GitHub repository, and social media profile (if you choose to share it).*
 
