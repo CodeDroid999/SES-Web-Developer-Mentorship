@@ -9,8 +9,9 @@ Certainly, here's an updated set of tasks that guide students to use GitHub to c
 
 2. **Create a GitHub Repository:**
    - Log in to your GitHub account or create one if you don't have it yet.
-   - Create a new GitHub repository to host your blog post. Give it a meaningful name, such as "web-mentorship-day1-blog."
-   - Initialize the repository with a README file.
+   - Create a new GitHub repository to host your blog post. Give it the name, ```SES-Web-mentorship```
+   - Create a new folder. Give it the name, ```0x01_Introduction-to-the-internet```
+   - Create a new file. Give it the name, ```Introduction-to-the-internet.md```
 
 3. **Write Your Blog in Markdown:**
    - Using the Markdown syntax you've learned, write your blog post directly in the README.md file of your repository.
