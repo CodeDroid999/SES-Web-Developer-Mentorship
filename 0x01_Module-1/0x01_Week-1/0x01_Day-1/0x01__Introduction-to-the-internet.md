@@ -25,7 +25,7 @@ Resources
     - [Video Explanation](https://www.youtube.com/watch?v=BgkDMgAqjI0)
     - [Text-Based Explanation](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Browser_basics)
 
-**Tasks:**
+## Tasks 
 
 1. **Introduction to Markdown:**
    - Begin by learning about Markdown, a lightweight markup language used for formatting text on platforms like GitHub.
@@ -36,11 +36,12 @@ Resources
    - Log in to your GitHub account or create one if you don't have it yet.
    - Create a new GitHub repository to host your blog post. Give it the name, ```SES-Web-mentorship```
    - Create a new folder. Give it the name, ```0x01_Introduction-to-the-internet```
-   - Create a new file. Give it the name, ```Introduction-to-the-internet.md```
+   - Create a new file. Give it the name, ```README.md```
 
-3. **Write Your Blog in Markdown:**
+3. **Write Your Blog**
    - Using the Markdown syntax you've learned, write your blog post directly in the README.md file of your repository.
    - Include the key points and insights you gained from Day 1 of the Web Mentorship Program. Structure your blog post with headings, lists, and links for clarity.
+   - Write and post your blog on LinkedIn .
    - Don't forget to add a captivating title and an introductory paragraph.
 
 4. **Commit and Push to GitHub:**
@@ -48,7 +49,7 @@ Resources
    - Push your local repository to GitHub to make your blog post accessible on the web.
 
 5. **Share Your GitHub Repository:**
-   - Share the link to your GitHub repository with your peers or on social media, inviting others to read your blog post.
+   - Share the link to your GitHub repository with your peers and on social media (preferably LinkedIn) or a blogging site(e.g medium), inviting others to read your blog post.
    - Encourage feedback and comments on your GitHub repository.
 
 6. **Additional Challenge (Optional):**
