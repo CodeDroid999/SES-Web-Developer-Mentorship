@@ -5,6 +5,8 @@
 ### Introduction
 Welcome, aspiring web enthusiasts, to the first day of our Web Mentorship Program. Over the next several weeks, we will embark on an exciting journey to demystify the world of the internet and empower you with the knowledge and skills needed to thrive in the digital age. Today, we'll lay the foundation by exploring the very heart of the online realm: the internet itself.
 
+As a web developer, you will be building buildings things for the internet. It is therefore only natural for you to understand what's the internet, how it works, its history and how  to navigate it.
+
 ### Learning Objectives
 1. **The Internet: A Brief Overview**
    - Explore the [history of the internet](https://www.history.com/topics/inventions/invention-of-the-internet) and its significance.
