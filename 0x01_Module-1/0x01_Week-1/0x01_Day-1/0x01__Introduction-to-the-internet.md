@@ -1,4 +1,29 @@
-Certainly, here's an updated set of tasks that guide students to use GitHub to create a repository and write their blog using Markdown:
+## **Internet and Web Basics:**
+Resources
+
+1. *How Does the Internet Work?*:
+   - [Video Explanation](https://www.youtube.com/watch?v=7_LPdttKXPc)
+   - [Text-Based Explanation](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+
+2. *What is HTTP?*:
+   - [Video Explanation](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+   - [Text-Based Explanation](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+3. *What is a Domain Name?*:
+   - [Video Explanation](https://www.youtube.com/watch?v=Om2P6L7lOeU)
+   - [Text-Based Explanation](https://www.icann.org/resources/pages/domain-name-what-why-2021-02-12-en)
+
+4. *What is Hosting?*:
+   - [Video Explanation](https://www.youtube.com/watch?v=LBjIy0DOv-M)
+   - [Text-Based Explanation](https://www.cloudflare.com/learning/what-is-web-hosting/)
+
+5. *DNS and How it Works?*:
+    - [Video Explanation](https://www.youtube.com/watch?v=MPeiMqWsrG8)
+    - [Text-Based Explanation](https://howdns.works/)
+
+6. *Browsers and How They Work?*:
+    - [Video Explanation](https://www.youtube.com/watch?v=BgkDMgAqjI0)
+    - [Text-Based Explanation](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Browser_basics)
 
 **Tasks:**
 
