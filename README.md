@@ -7,9 +7,7 @@ The Website Mentorship is a 3-month intensive program for aspiring web developer
 
 # Course Outline
 
-Sure, here's the course roadmap divided into three modules spanning three months:
-
-**Module 1: Foundation (Month 1)**
+**Module 1: Foundation**
 
 *Personal Recommendation / Opinion*  
 - Alternative Option - Pick this or purple  
@@ -44,9 +42,9 @@ Sure, here's the course roadmap divided into three modules spanning three months
         - Bitbucket  
 - React  
     - npm  
-- CSS: We have trimmed down the CSS part for the sake of brevity. However, I would recommend reading about CSS in JS, CSS Modules, Styled Components, Vanilla Extract, Panda CSS, and look into different frameworks with pre-built components such as MUI, daisyUI, Chakra UI, and Mantine.  
+- CSS: We have trimmed down the CSS part for the sake of brevity. However, We recommend reading about CSS in JS, CSS Modules, Styled Components, Vanilla Extract, Panda CSS, and look into different frameworks with pre-built components such as MUI, daisyUI, Chakra UI, and Mantine.  
 
-**Module 2: Advanced Front-end (Month 2)**
+**Module 2: Advanced Front-end**
 
 *Front-end (continued)*  
 - Vue.js  
