@@ -1,108 +1,32 @@
-Creating a simple website is a great way to introduce web development. In this project, we'll build a basic personal portfolio website using HTML and CSS. This will cover the fundamentals of web development, including creating web pages, styling them, and adding basic interactivity.
+Certainly, here's an updated set of tasks that guide students to use GitHub to create a repository and write their blog using Markdown:
 
-### Project: Personal Portfolio Website
+**Tasks:**
 
-**Objective:** Create a simple personal portfolio website with an introduction section, about section, and contact information.
+1. **Introduction to Markdown:**
+   - Begin by learning about Markdown, a lightweight markup language used for formatting text on platforms like GitHub.
+   - Explore this [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) to understand the basics of Markdown syntax.
+   - Experiment with creating headers, lists, links, and emphasis in Markdown in a text editor of your choice.
 
-**Tools and Technologies:** HTML, CSS
+2. **Create a GitHub Repository:**
+   - Log in to your GitHub account or create one if you don't have it yet.
+   - Create a new GitHub repository to host your blog post. Give it a meaningful name, such as "web-mentorship-day1-blog."
+   - Initialize the repository with a README file.
 
-**Steps:**
+3. **Write Your Blog in Markdown:**
+   - Using the Markdown syntax you've learned, write your blog post directly in the README.md file of your repository.
+   - Include the key points and insights you gained from Day 1 of the Web Mentorship Program. Structure your blog post with headings, lists, and links for clarity.
+   - Don't forget to add a captivating title and an introductory paragraph.
 
-1. **Set Up Your Development Environment:**
-   - Open a text editor like Visual Studio Code or Notepad++.
-   - Create a new folder for your project and name it something like "portfolio-website."
-   - Inside this folder, create two files: `index.html` and `style.css`.
+4. **Commit and Push to GitHub:**
+   - Once you've written your blog post in Markdown, commit your changes to your local repository.
+   - Push your local repository to GitHub to make your blog post accessible on the web.
 
-2. **HTML Structure (index.html):**
-   - Create the basic HTML structure.
+5. **Share Your GitHub Repository:**
+   - Share the link to your GitHub repository with your peers or on social media, inviting others to read your blog post.
+   - Encourage feedback and comments on your GitHub repository.
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Your Name</h1>
-        <p>Web Developer</p>
-    </header>
+6. **Additional Challenge (Optional):**
+   - Explore advanced Markdown features like tables, images, and code blocks to enhance your blog post.
+   - Consider using GitHub's features like issues and pull requests for collaboration with peers who may want to contribute to your blog or provide feedback.
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Write a brief description about yourself here.</p>
-    </section>
-
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <p>Email: your.email@example.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourname/">LinkedIn Profile</a></p>
-        <!-- Add more contact information as needed -->
-    </section>
-</body>
-</html>
-```
-
-3. **Basic Styling (style.css):**
-   - Add basic CSS to style your website.
-
-```css
-/* Reset some default styles */
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-/* Header styles */
-header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-}
-
-h1 {
-    font-size: 2.5rem;
-    margin: 0;
-}
-
-/* Section styles */
-section {
-    padding: 20px;
-}
-
-/* About section styles */
-#about {
-    background-color: #f0f0f0;
-}
-
-/* Contact section styles */
-#contact {
-    background-color: #333;
-    color: #fff;
-}
-
-/* Add more styles as needed */
-```
-
-4. **Preview Your Website:**
-   - Open the `index.html` file in a web browser to see how your website looks.
-
-5. **Customize Content:**
-   - Replace "Your Name" and other placeholders with your actual information.
-   - Modify the content within the `<p>` tags in the "About Me" and "Contact Me" sections.
-
-6. **Enhance Your Website (Optional):**
-   - Add more sections or pages to your portfolio (e.g., projects, skills, testimonials).
-   - Explore advanced CSS styling and layout techniques.
-   - Make your website responsive using media queries.
-   - Add JavaScript for interactivity (e.g., contact form validation).
-
-7. **Host Your Website (Optional):**
-   - If you want to share your website online, consider hosting it on platforms like GitHub Pages or Netlify for free hosting.
-
-This simple project provides an introduction to web development by creating a basic personal portfolio website. You can gradually expand and enhance it as you learn more about HTML, CSS, and web development.
+By following these tasks, you'll not only create a blog post about your Day 1 learnings but also gain valuable experience using Markdown and GitHub. This practical exercise aligns with real-world practices in web development and version control, setting a strong foundation for your journey in the Web Mentorship Program.

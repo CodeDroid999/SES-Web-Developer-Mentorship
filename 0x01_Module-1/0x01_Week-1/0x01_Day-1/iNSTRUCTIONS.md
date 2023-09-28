@@ -24,7 +24,6 @@ As a web developer, you will be building buildings things for the internet. It i
    - Learn about web browsers and their significance in accessing the internet.
    - Master the art of efficient web searching with [search engines](https://www.google.com/intl/en/search/howsearchworks/).
 ### Tasks
-#### Pre
 ### Conclusion
 Today marks the beginning of an exciting journey into the vast realm of the internet. We hope you're as enthusiastic as we are about exploring this digital landscape together.
 
