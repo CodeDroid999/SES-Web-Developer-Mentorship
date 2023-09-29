@@ -22,9 +22,8 @@ The journey has begun. My task list has one item already done:
 >[!NOTE]
 >This is only a trial blog post for several Markup Skills.
 
- “Learning HTML and CSS is a lot more challenging than it used to be. Responsive web design adds more layers of complexity to design and develop websites.”
-― Jacob Lett, Bootstrap 4 Quick Start: Responsive Web Design and Development Basics for Beginners[^1].
-“Great web design without functionality is like a sports car with no engine.”
-– Paul Cookson[^2]
+ Learning HTML and CSS is a lot more challenging than it used to be. Responsive web design adds more layers of complexity to design and develop websites.[^1]
+Great web design without functionality is like a sports car with no engine.[^2]
+
 
 ADIOS💙
