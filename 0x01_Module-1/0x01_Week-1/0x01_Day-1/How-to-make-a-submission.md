@@ -1,5 +1,5 @@
 # How to Submit Your Day 1 Blog Post
-### NB: The only changes you are allowed to make is adding your name and links in [SUBMISSION.md](0x01_Module-1/0x01_Week-1/0x01_Day-1/SUBMISSIONS.md)
+### NB: The only changes you are allowed to make is adding your name and links in [SUBMISSIONS.md]
 
 To submit your Day 1 blog post for the Web Mentorship Program, follow these steps using the web version of GitHub:
 
