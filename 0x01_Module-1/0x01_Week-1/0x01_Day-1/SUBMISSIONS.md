@@ -4,10 +4,10 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 
 ---
 
-### Participant 1: [Your Name]
+### Participant 1: [Juliet Maingi]
 
-- **Blog Post:** [Link to Your Blog Post](insert_link_here)
-- **GitHub Repository:** [Link to Your GitHub Repo](insert_link_here)
+- **Blog Post:** [Link to Your Blog Post](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/pull/1/commits/216a758a4bfdc28df2cd6456ec71ca0314b88ef2)
+- **GitHub Repository:** [Link to Your GitHub Repo](https://github.com/Juliet569/Introduction-to-Web-Design-and-Github)
 - **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
 
 ---
