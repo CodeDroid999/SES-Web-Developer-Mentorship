@@ -51,6 +51,7 @@ Resources
 5. **Share Your GitHub Repository:**
    - Share the link to your GitHub repository with your peers and on social media (preferably LinkedIn) or a blogging site(e.g medium), inviting others to read your blog post.
    - Encourage feedback and comments on your GitHub repository.
+   - Add your name and links to your blog and repo in [SUBMISSIONS.md]
 
 6. **Additional Challenge (Optional):**
    - Explore advanced Markdown features like tables, images, and code blocks to enhance your blog post.
