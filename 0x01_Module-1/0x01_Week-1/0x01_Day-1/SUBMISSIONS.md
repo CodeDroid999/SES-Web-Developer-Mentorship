@@ -12,10 +12,10 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 
 ---
 
-### Participant 2: [Your Name]
+### Participant 2: [Virginia Kabaria]
 
-- **Blog Post:** [Link to Your Blog Post](insert_link_here)
-- **GitHub Repository:** [Link to Your GitHub Repo](insert_link_here)
+- **Blog Post:** [Link to Your Blog Post](https://github.com/Kabaria33/SES-Web-mentorship/blob/be109a85b9b4a7c9f5429ef4a92a3a2162d6ab5d/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [Link to Your GitHub Repo](https://github.com/Kabaria33/SES-Web-mentorship.git)
 - **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
 
 ---
