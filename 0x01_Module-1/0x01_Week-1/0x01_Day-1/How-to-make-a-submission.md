@@ -10,7 +10,7 @@ To submit your Day 1 blog post for the Web Mentorship Program, follow these step
 
 ## Step 2: Edit the README.md File
 
-1. In your forked repository, locate the **SUBMISSIONS.md** file. tYPICALLY IN **0x01_Module/0x01_Week_1/SUBMISSIONS.md**
+1. In your forked repository, locate the **SUBMISSIONS.md** file.Typically in **0x01_Module/0x01_Week_1/SUBMISSIONS.md**
 2. Click the pencil icon (Edit this file) on the top-right of the README.md file to open the GitHub editor.
 3. Write your Day 1 blog post using Markdown syntax.
 4. Scroll down to the **Commit changes** section.
