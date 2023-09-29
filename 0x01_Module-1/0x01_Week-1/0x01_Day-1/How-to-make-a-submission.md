@@ -1,5 +1,5 @@
 # How to Submit Your Day 1 Blog Post
-## The only changes you are allowed to make is adding your name and links in [SUBMISSION.md](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-1/How-to-make-a-submission.md)
+### The only changes you are allowed to make is adding your name and links in [SUBMISSION.md](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-1/How-to-make-a-submission.md)
 
 To submit your Day 1 blog post for the Web Mentorship Program, follow these steps using the web version of GitHub:
 
