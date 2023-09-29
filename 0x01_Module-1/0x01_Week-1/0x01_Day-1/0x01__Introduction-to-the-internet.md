@@ -41,7 +41,7 @@ Resources
 3. **Write Your Blog**
    - Using the Markdown syntax you've learned, write your blog post directly in the README.md file of your repository.
    - Include the key points and insights you gained from Day 1 of the Web Mentorship Program. Structure your blog post with headings, lists, and links for clarity.
-   - Write and post your blog on LinkedIn .
+   - Write and post your blog on LinkedIn.
    - Don't forget to add a captivating title and an introductory paragraph.
 
 4. **Commit and Push to GitHub:**
