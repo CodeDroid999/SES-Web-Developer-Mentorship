@@ -5,7 +5,7 @@ To submit your Day 1 blog post for the Web Mentorship Program, follow these step
 
 ## Step 1: Fork the Repository
 
-1. Open your web browser and navigate to the [main repository](insert_link_to_main_repo_here) of the Web Mentorship Program.
+1. Open your web browser and navigate to the [main repository](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship) of the Web Mentorship Program.
 2. Click the **Fork** button in the upper right corner of the repository page. This will create a copy (fork) of the repository in your GitHub account.
 
 ## Step 2: Edit the README.md File
