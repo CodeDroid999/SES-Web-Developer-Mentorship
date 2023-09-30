@@ -30,3 +30,7 @@ Today marks the beginning of an exciting journey into the vast realm of the inte
 Remember, the internet is more than just a tool; it's a boundless source of knowledge, creativity, and opportunity. By the end of this mentorship program, you'll not only be proficient in navigating this vast terrain but also capable of contributing to it in meaningful ways.
 
 As we wrap up today's session, keep in mind that curiosity and an eagerness to learn will be your most valuable companions on this journey. So, let's get started with Day 1 of our Web Mentorship Program: Introduction to the Internet!
+
+## Learning web design 
+Just started a new journey learning a new skill.I have done some basic training in web design and am so excited to continue learning. Am connecting with new people  learning and getting new ideas.This is definitely killing two birds with one stone and am loving every moment of it.
+
