@@ -35,11 +35,11 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 
 ---
 
-### Participant 4: [Your Name]
+### Participant 4: [Amos Sagit]
 
-- **Blog Post:** [Link to Your Blog Post](insert_link_here)
-- **GitHub Repository:** [Link to Your GitHub Repo](insert_link_here)
-- **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
+- **Blog Post:** [Link to Your Blog Post](https://github.com/amos-kipngetich-korir)
+- **GitHub Repository:** [Link to Your GitHub Repo](https://github.com/amos-kipngetich-korir/SES-Web-Developer-Mentorship))
+- **Social Media Profile (Optional):** [Link to Your Social Media Profile](https://www.linkedin.com/in/amos-sagit-9369441b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1jsYdEQCTbWN3X%2BBZFZB%2BA%3D%3D)
 
 ---
 
