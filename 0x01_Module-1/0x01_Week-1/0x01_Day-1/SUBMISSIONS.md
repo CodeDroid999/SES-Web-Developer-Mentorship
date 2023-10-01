@@ -27,11 +27,11 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 
 ---
 
-### Participant 3: [Your Name]
+### Participant 3: [James Gichuki]
 
-- **Blog Post:** [Link to Your Blog Post](insert_link_here)
-- **GitHub Repository:** [Link to Your GitHub Repo](insert_link_here)
-- **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
+- **Blog Post:** [Link to Your Blog Post](https://github.com/gichuki221/SES-Web-Mentorship/blob/main/README.md)
+- **GitHub Repository:** [Link to Your GitHub Repo](https://github.com/gichuki221/SES-Web-Developer-Mentorship)
+- **Social Media Profile (Optional):** [Link to Your Social Media Profile]()
 
 ---
 
