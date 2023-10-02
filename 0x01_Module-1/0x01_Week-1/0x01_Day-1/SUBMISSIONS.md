@@ -17,7 +17,8 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 - **Blog Post:** [Blog Post](https://github.com/WaiyegoGrace/SES-Web-Developer-Mentorship)
 - **GitHub Repository:** [GitHub Repo](https://github.com/WaiyegoGrace/Learning-web-design-)
 - **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/grace-wambui-a4326a264?trk=contact-info)
-=======
+
+---
 ### Virginia Kabaria
 
 - **Blog Post:** [Blog Post](https://github.com/Kabaria33/SES-Web-mentorship/blob/dafd9226ba4d7d0f27c2784e1f5d99ca6205f0dc/0x01_Introduction-to-the-internet/README.md)
