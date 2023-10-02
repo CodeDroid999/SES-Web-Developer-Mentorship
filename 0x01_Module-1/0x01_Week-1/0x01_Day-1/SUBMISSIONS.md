@@ -5,7 +5,8 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 *Please replace "insert_link_here" with the actual URLs of your blog post, GitHub repository, and social media profile (if you choose to share it).*
 
 Thank you for sharing your work with the community! This is a great opportunity to learn from each other and build connections.
-
+---
+# Participants
 ---
 
 ### Juliet Maingi
