@@ -32,7 +32,9 @@ Here are some resources to help you with today's tasks:
 2. **Images and Links**:
    - [HTML Images](https://www.w3schools.com/html/html_images.asp)
    - [HTML Links](https://www.w3schools.com/html/html_links.asp)
+
 ---
+
 ## Tasks
 
 ### Task 1: Create Your Web Page
@@ -81,6 +83,7 @@ index.html
 ```
 
 - **Other interesting facts or information about the breed**: Use a `<p>` element to provide additional information. For example:
+
 ```
 <p>The Siamese cat is known for its vocal nature and social personality.</p>
 ```
@@ -97,6 +100,11 @@ Repeat these HTML structure elements for each of the three cat breeds you are fe
 
 1. Open your `index.html` file in a web browser to view your web page.
 2. Ensure that the structure and content appear as intended.
+
+---
+### Expected results
+Your webpage should look something like:
+![Alt text](index.jpg)
 
 ---
 ## Submission
