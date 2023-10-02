@@ -46,7 +46,7 @@ index.html
 
 3. Set the title **Catopedia** for your web page by adding the `<title>` element within the `<head>` section. This is a title that reflects the content of your page.
 4. Build a basic web page structure with the following elements:
-   - Use a `<header>\` element to create a header section.
+   - Use a `<header>` element to create a header section.
    - Use a `<nav>` element to create a navigation menu.
    - Use a `<main>` element to define the main content of your page.
    - Use a `<footer>` element to create a footer section.
@@ -59,14 +59,14 @@ index.html
 
    - **The breed of the cat**: Use a `<h2>` element to create a subheading for the breed name. For example:
 
-```<h2>Siamese Cat</h2>
-
+```
+<h2>Siamese Cat</h2>
 ```
 
 - **Lifespan of the breed**: Use a `<p>` (paragraph) element to display the lifespan information. For example:
 
-```<p>Lifespan: 15-20 years</p>
-
+```
+<p>Lifespan: 15-20 years</p>
 ```
 
 - **Characteristics of the breed**: Use an unordered list `<ul>` with list items `<li>` to list the characteristics. For example:
