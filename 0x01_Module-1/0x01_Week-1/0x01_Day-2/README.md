@@ -102,11 +102,14 @@ Repeat these HTML structure elements for each of the three cat breeds you are fe
 2. Ensure that the structure and content appear as intended.
 
 ---
+
 ### Expected results
+
 Your webpage should look something like:
 ![Alt text](index.jpg)
 
 ---
+
 ## Submission
 
 To submit your work for Day 2, follow these steps:
