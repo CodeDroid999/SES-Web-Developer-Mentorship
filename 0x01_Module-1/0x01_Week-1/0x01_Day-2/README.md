@@ -52,9 +52,9 @@ index.html
    - Use a `<footer>` element to create a footer section.
 5. Within the `<main>` section, include a heading (`<h1>`) with a meaningful title for your web page.
 6. Create a section for displaying cat images. You can use the `<img>` element to display at least three cat images. Here are some stock photo links for different cat breeds:
-   - Siamese Cat: ![Siamese Cat](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST4vFqkon9beoNKaEGwJsaFJTR7l61rtMhYJgvHEWuc0QT5ajF)
-   - Maine Coon Cat: ![Maine Coon Cat](https://media.istockphoto.com/id/819476630/photo/portrait-of-maine-coon-cat-on-black-background.jpg?s=612x612&w=0&k=20&c=-LjNMvz5RQOIczZS3QhI0ElDyi8a2esqbB-OT8QLkak=)
-   - Persian Cat: ![Persian Cat](https://media.istockphoto.com/id/1135793728/photo/white-persian-cats.jpg?s=612x612&w=0&k=20&c=UeroNOVgXc3wUrR_tIBhT1uH_iAoH_ZZo9I95_L-mqU=)
+   - Siamese Cat: <a href="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST4vFqkon9beoNKaEGwJsaFJTR7l61rtMhYJgvHEWuc0QT5ajF">Click to view image 1</a>
+   - Maine Coon Cat: <a href="https://media.istockphoto.com/id/819476630/photo/portrait-of-maine-coon-cat-on-black-background.jpg?s=612x612&w=0&k=20&c=-LjNMvz5RQOIczZS3QhI0ElDyi8a2esqbB-OT8QLkak=">Click to view Imaage 2</a>
+   - Persian Cat: <a href="https://media.istockphoto.com/id/1135793728/photo/white-persian-cats.jpg?s=612x612&w=0&k=20&c=UeroNOVgXc3wUrR_tIBhT1uH_iAoH_ZZo9I95_L-mqU=">Click to view image 3</a>
 7. For each cat breed, provide the following information using appropriate HTML elements:
 
    - **The breed of the cat**: Use a `<h2>` element to create a subheading for the breed name. For example:
@@ -81,9 +81,9 @@ index.html
 ```
 
 - **Other interesting facts or information about the breed**: Use a `<p>` element to provide additional information. For example:
-  ```
-  <p>The Siamese cat is known for its vocal nature and social personality.</p>
-  ```
+```
+<p>The Siamese cat is known for its vocal nature and social personality.</p>
+```
 
 Repeat these HTML structure elements for each of the three cat breeds you are featuring on your web page (Siamese, Maine Coon, and Persian).
 
