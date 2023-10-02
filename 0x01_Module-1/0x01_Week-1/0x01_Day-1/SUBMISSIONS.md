@@ -11,7 +11,7 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 - **Blog Post:** [Blog Post](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/pull/1/commits/216a758a4bfdc28df2cd6456ec71ca0314b88ef2)
 - **GitHub Repository:**[GitHub Repo](https://github.com/Juliet569/Introduction-to-Web-Design-and-Github)
-- **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
+- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
 
 ---
 
