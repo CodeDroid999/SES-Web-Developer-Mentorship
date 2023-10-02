@@ -32,7 +32,7 @@ Here are some resources to help you with today's tasks:
 2. **Images and Links**:
    - [HTML Images](https://www.w3schools.com/html/html_images.asp)
    - [HTML Links](https://www.w3schools.com/html/html_links.asp)
-
+---
 ## Tasks
 
 ### Task 1: Create Your Web Page
@@ -53,7 +53,7 @@ index.html
 5. Within the `<main>` section, include a heading (`<h1>`) with a meaningful title for your web page.
 6. Create a section for displaying cat images. You can use the `<img>` element to display at least three cat images. Here are some stock photo links for different cat breeds:
    - Siamese Cat: <a href="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST4vFqkon9beoNKaEGwJsaFJTR7l61rtMhYJgvHEWuc0QT5ajF">Click to view image 1</a>
-   - Maine Coon Cat: <a href="https://media.istockphoto.com/id/819476630/photo/portrait-of-maine-coon-cat-on-black-background.jpg?s=612x612&w=0&k=20&c=-LjNMvz5RQOIczZS3QhI0ElDyi8a2esqbB-OT8QLkak=">Click to view Imaage 2</a>
+   - Maine Coon Cat: <a href="https://media.istockphoto.com/id/819476630/photo/portrait-of-maine-coon-cat-on-black-background.jpg?s=612x612&w=0&k=20&c=-LjNMvz5RQOIczZS3QhI0ElDyi8a2esqbB-OT8QLkak=">Click to view Image 2</a>
    - Persian Cat: <a href="https://media.istockphoto.com/id/1135793728/photo/white-persian-cats.jpg?s=612x612&w=0&k=20&c=UeroNOVgXc3wUrR_tIBhT1uH_iAoH_ZZo9I95_L-mqU=">Click to view image 3</a>
 7. For each cat breed, provide the following information using appropriate HTML elements:
 
@@ -97,8 +97,8 @@ Repeat these HTML structure elements for each of the three cat breeds you are fe
 
 1. Open your `index.html` file in a web browser to view your web page.
 2. Ensure that the structure and content appear as intended.
-3. Test the links to verify they navigate correctly.
 
+---
 ## Submission
 
 To submit your work for Day 2, follow these steps:
@@ -110,7 +110,3 @@ To submit your work for Day 2, follow these steps:
 5. In the pull request description, briefly describe the changes you made and any challenges you faced.
 
 We're excited to see your first web pages! Remember, practice is key to mastering web development. Good luck!
-
-```
-
-```
