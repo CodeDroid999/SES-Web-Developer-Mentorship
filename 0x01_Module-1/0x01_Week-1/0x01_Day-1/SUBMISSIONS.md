@@ -7,8 +7,6 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 Thank you for sharing your work with the community! This is a great opportunity to learn from each other and build connections.
 ---
 # Participants
----
-
 ### Juliet Maingi
 
 - **Blog Post:** [Blog Post](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/pull/1/commits/216a758a4bfdc28df2cd6456ec71ca0314b88ef2)
