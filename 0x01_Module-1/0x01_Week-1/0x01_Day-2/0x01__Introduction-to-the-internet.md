@@ -1,6 +1,6 @@
 Creating a simple website is a great way to introduce web development. In this project, we'll build a basic personal portfolio website using HTML and CSS. This will cover the fundamentals of web development, including creating web pages, styling them, and adding basic interactivity.
 
-### Project: Personal Portfolio Website
+## Project: Personal Portfolio Website
 
 **Objective:** Create a simple personal portfolio website with an introduction section, about section, and contact information.
 
