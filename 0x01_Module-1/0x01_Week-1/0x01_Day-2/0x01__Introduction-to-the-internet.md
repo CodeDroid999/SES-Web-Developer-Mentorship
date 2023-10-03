@@ -33,7 +33,7 @@ Creating a simple website is a great way to introduce web development. In this p
 
     <section id="about">
         <h2>Amos Sagit</h2>
-        <p>I am an electrical and elctronics engineering student interested web development-html,css,javascript.</p>
+        <p>I am electrical and elctronics engineering student interested web development-html,css,javascript.</p>
     </section>
 
     <section id="contact">
