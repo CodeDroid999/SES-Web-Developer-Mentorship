@@ -148,3 +148,6 @@ Before you embark on this comprehensive web mentorship program, it's essential t
 10. **Optional: HTML/CSS Familiarity:** If you're starting from scratch, it can be helpful to have some basic knowledge of HTML and CSS. You can get a head start by exploring online tutorials or beginner courses.
 
 Remember that everyone's starting point is different, and it's okay if you don't meet all these prerequisites from the outset. The journey of learning web development is about continuous improvement and growth. As you progress through the program, you'll build the skills and knowledge needed to become a proficient web developer.
+
+
+
