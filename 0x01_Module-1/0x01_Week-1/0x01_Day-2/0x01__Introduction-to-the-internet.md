@@ -22,25 +22,25 @@ Creating a simple website is a great way to introduce web development. In this p
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
+    <title>Amos Sagit Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Amos Sagit</h1>
         <p>Web Developer</p>
     </header>
 
     <section id="about">
-        <h2>About Me</h2>
-        <p>Write a brief description about yourself here.</p>
+        <h2>Amos Sagit</h2>
+        <p>I am an electrical and elctronics engineering student interested web development-html,css,javascript.</p>
     </section>
 
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: your.email@example.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourname/">LinkedIn Profile</a></p>
-        <!-- Add more contact information as needed -->
+        <p>Email: korir.sagit@gmail.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/amos-sagit-9369441b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_profile_views%3Bn0kJ96urT9C5rRfAsM9vbw%3D%3D)</a></p>
+        <!-- Add more contact information about you -->
     </section>
 </body>
 </html>
