@@ -47,11 +47,11 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
-### [Your Name]
+### Nickson K Rop
 
-- **Blog Post:** [Blog Post](insert_link_here)
-- **GitHub Repository:** [GitHub Repo](insert_link_here)
-- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+- **Blog Post:** [Blog Post](https://github.com/nicky-ops/SES-Web-mentorship)
+- **GitHub Repository:** [GitHub Repo](https://github.com/nicky-ops/SES-Web-mentorship)
+- **Social Media Profile (Optional):** [Social Media Profile](https://twitter.com/nickyrutto)
 
 ---
 
