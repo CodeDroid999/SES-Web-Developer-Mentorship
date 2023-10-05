@@ -41,7 +41,7 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ### Amos Sagit
 
-- **Blog Post:** [Blog Post](https://github.com/amos-kipngetich-korir)
+- **Blog Post:** [Blog Post](https://github.com/amos-kipngetich-korir  
 - **GitHub Repository:** [GitHub Repo](https://github.com/amos-kipngetich-korir/SES-Web-Developer-Mentorship))
 - **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/amos-sagit-9369441b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1jsYdEQCTbWN3X%2BBZFZB%2BA%3D%3D)
 
