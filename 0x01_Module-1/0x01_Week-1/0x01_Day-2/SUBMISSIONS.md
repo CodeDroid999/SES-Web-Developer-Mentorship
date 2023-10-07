@@ -5,12 +5,13 @@ Welcome, participants! Please submit your Day 2 assignments here. We're excited 
 ### Submission Instructions
 
 1. **Fork the Main Repository**:
-   - If you haven't already, fork the [main repository](insert_link_to_main_repo_here) of the Web Mentorship Program to your GitHub account. This will create a copy in your GitHub account where you can make changes.
+   - If you haven't already, fork the [main repository](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship) of the Web Mentorship Program to your GitHub account. This will create a copy in your GitHub account where you can make changes.
+   - If you have forked the repo already consider pulling the repo to have the latest version.
 
-2. **Clone Your Forked Repository**:
-   - Clone your forked repository to your local machine using Git. Use the following command, replacing `<repository_url>` with the URL of your forked repository:
-     ```sh
-     git clone <repository_url>
+2. **Clone Your Forked Repository to your local machine**:
+   - Clone your forked repository to your local machine using Git. Use the following command:
+     ```
+     git clone https://github.com/CodeDroid999/SES-Web-Developer-Mentorship
      ```
 
 3. **Create a New Branch**:
@@ -21,14 +22,14 @@ Welcome, participants! Please submit your Day 2 assignments here. We're excited 
 
 5. **Commit Your Changes**:
    - Add and commit your changes to the branch:
-     ```sh
+     ```
      git add .
      git commit -m "Add Day 2 web page"
      ```
 
 6. **Push Your Branch**:
    - Push your branch to your forked repository on GitHub:
-     ```sh
+     ```
      git push origin <branch_name>
      ```
 
