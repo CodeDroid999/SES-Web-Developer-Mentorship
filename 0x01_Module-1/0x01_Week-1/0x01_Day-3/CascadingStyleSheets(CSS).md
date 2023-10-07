@@ -1,6 +1,5 @@
 # Tasks
 
-
 ### Task 1: Creating a New GitHub Repository
 
 To keep track of your work for Day 3, we recommend creating a new GitHub repository. Follow these steps:
@@ -13,14 +12,14 @@ To keep track of your work for Day 3, we recommend creating a new GitHub reposit
 
 4. Choose the visibility (public).
 
-5. Click "Create repository.". 
+5. Click "Create repository.".
 
 6. Clone the new repository to your local machine using VsCode.
 
 7. Inside the local repository directory, create three new folders: `internal-css`, `external-css`, and `inline-css`.
 
 8. Download the [index.html](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-3/index.ml) file.
-5. Copy the downloaded `index.html` file and paste it into all three folders.
+9. Copy the downloaded `index.html` file and paste it into all three folders.
 
 Now, you have a dedicated repository to commit your code and tasks for Day 3. You can clone this repository to your local machine and work on your CSS tasks.
 
