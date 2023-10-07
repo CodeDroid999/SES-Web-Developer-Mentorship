@@ -1,123 +1,55 @@
-# Day 2: Building Your First Web Page
+# Day 3: Cascading Style Sheets (CSS)
 
-## Introduction
+Welcome to Day 3 of our Web Mentorship Program! Today, we're delving into the world of Cascading Style Sheets (CSS), a crucial technology in web development. CSS allows you to control the presentation and layout of your web pages, making them visually appealing and user-friendly.
 
-Welcome to Day 2 of the Web Mentorship Program! In today's session, we'll take your foundational knowledge from Day 1 and put it into action. You'll be building your first web page, applying what you've learned about HTML, semantic elements, and web structure. Let's dive in!
+## Understanding CSS Basics
 
-## Learning Objectives
+**CSS (Cascading Style Sheets)** is a stylesheet language used to describe the presentation and styling of HTML documents. With CSS, you can control the appearance of elements on your web pages, including fonts, colors, spacing, and layout. CSS follows a rule-based syntax, where you define rules that specify how different elements should be styled.
 
-By the end of Day 2, you should be able to:
+Key CSS Concepts:
+- **Selectors**: These define which HTML elements the styles will be applied to.
+- **Properties**: These determine what aspect of the element's style will be changed (e.g., color, font-size).
+- **Values**: Values are assigned to properties and define how the style should be applied (e.g., `red` for color, `20px` for font-size).
 
-1. **Create a Basic Web Page:**
+CSS can be applied in three ways: **internal**, **external**, and **in-line**. Each method has its use cases and advantages.
 
-   - Construct a simple HTML structure for a web page.
-   - Utilize semantic HTML elements for content.
+## Objectives
 
-2. **Structure Content:**
+By the end of today's session, you will:
 
-   - Understand the importance of proper content structure for accessibility and SEO.
-   - Use headings, paragraphs, lists, and other HTML elements effectively.
-
-3. **Add Images and Links:**
-   - Embed images into your web page using HTML.
-   - Create links to navigate between web pages.
+1. Understand the purpose and importance of CSS in web development.
+2. Learn how to apply CSS styles using internal, external, and in-line methods.
+3. Gain hands-on experience in styling HTML elements to create visually appealing web pages.
 
 ## Resources
 
-Here are some resources to help you with today's tasks:
+Before we start, here are some resources to help you learn CSS effectively:
 
-1. **HTML Basics**:
-   - [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
-   - [HTML Semantic Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-2. **Images and Links**:
-   - [HTML Images](https://www.w3schools.com/html/html_images.asp)
-   - [HTML Links](https://www.w3schools.com/html/html_links.asp)
+1. [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): A comprehensive guide to CSS properties and concepts.
+2. [W3Schools CSS Tutorial](https://www.w3schools.com/css/): Interactive tutorials and examples for learning CSS.
+3. [CSS-Tricks](https://css-tricks.com/): A website with articles, guides, and resources on CSS and front-end development.
+4. [CodePen](https://codepen.io/): An online code editor where you can experiment with HTML and CSS.
 
----
 
-## Tasks
 
-### Task 1: Create Your Web Page
+## Creating a New GitHub Repository
 
-1. Open your text editor or integrated development environment (IDE).
-2. Create a new HTML file named \`index.html\`. You can copy and paste the following command into your terminal to create the file:
+To keep track of your work for Day 3, we recommend creating a new GitHub repository. Follow these steps:
 
-```
-index.html
-```
+1. Visit [GitHub](https://github.com/) and log in to your account.
 
-3. Set the title **Catopedia** for your web page by adding the `<title>` element within the `<head>` section. This is a title that reflects the content of your page.
-4. Build a basic web page structure with the following elements:
-   - Use a `<header>` element to create a header section.
-   - Use a `<nav>` element to create a navigation menu.
-   - Use a `<main>` element to define the main content of your page.
-   - Use a `<footer>` element to create a footer section.
-5. Within the `<main>` section, include a heading (`<h1>`) with a meaningful title for your web page.
-6. Create a section for displaying cat images. You can use the `<img>` element to display at least three cat images. Here are some stock photo links for different cat breeds:
-   - Siamese Cat: <a href="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST4vFqkon9beoNKaEGwJsaFJTR7l61rtMhYJgvHEWuc0QT5ajF">Click to view image 1</a>
-   - Maine Coon Cat: <a href="https://media.istockphoto.com/id/819476630/photo/portrait-of-maine-coon-cat-on-black-background.jpg?s=612x612&w=0&k=20&c=-LjNMvz5RQOIczZS3QhI0ElDyi8a2esqbB-OT8QLkak=">Click to view Image 2</a>
-   - Persian Cat: <a href="https://media.istockphoto.com/id/1135793728/photo/white-persian-cats.jpg?s=612x612&w=0&k=20&c=UeroNOVgXc3wUrR_tIBhT1uH_iAoH_ZZo9I95_L-mqU=">Click to view image 3</a>
-7. For each cat breed, provide the following information using appropriate HTML elements:
+2. Click on the '+' icon in the top right corner of the page and select "New Repository."
 
-   - **The breed of the cat**: Use a `<h2>` element to create a subheading for the breed name. For example:
+3. Name your repository (e.g., "WebMentorship-Day3").
 
-```
-<h2>Siamese Cat</h2>
-```
+4. Choose the visibility (public or private) as per your preference.
 
-- **Lifespan of the breed**: Use a `<p>` (paragraph) element to display the lifespan information. For example:
+5. Click "Create repository."
 
-```
-<p>Lifespan: 15-20 years</p>
-```
+Now, you have a dedicated repository to commit your code and tasks for Day 3. You can clone this repository to your local machine and work on your CSS tasks.
 
-- **Characteristics of the breed**: Use an unordered list `<ul>` with list items `<li>` to list the characteristics. For example:
+## Conclusion
 
-```
-<h3>Characteristics:</h3>
-<ul>
-<li>Distinctive color points on the ears, face, paws, and tail</li>
-<li>Blue almond-shaped eyes</li>
-<li>Short coat with a sleek appearance</li>
-</ul>
-```
+Today, you've taken your first steps into the world of CSS. You've explored different methods of applying CSS styles: internal, external, and in-line. As you continue to learn and practice, you'll gain the skills to create visually stunning and responsive web pages.
 
-- **Other interesting facts or information about the breed**: Use a `<p>` element to provide additional information. For example:
-
-```
-<p>The Siamese cat is known for its vocal nature and social personality.</p>
-```
-
-Repeat these HTML structure elements for each of the three cat breeds you are featuring on your web page (Siamese, Maine Coon, and Persian).
-
-### Task 2: Add Images and Links
-
-1. Find an image online or use one from your computer.
-2. Add the image to your web page using the `<img>` element.
-3. Create at least two links within your content, linking to other web pages or websites.
-
-### Task 3: Test Your Web Page
-
-1. Open your `index.html` file in a web browser to view your web page.
-2. Ensure that the structure and content appear as intended.
-
----
-
-### Expected results
-
-Your webpage should look something like:
-![Alt text](index.jpg)
-
----
-
-## Submission
-
-To submit your work for Day 2, follow these steps:
-
-1. Create a new branch in your forked repository (you can name it something like "day2-webpage").
-2. Commit your changes to this branch.
-3. Push your branch to your forked repository on GitHub.
-4. Create a pull request to the original repository, comparing your branch to the main branch.
-5. In the pull request description, briefly describe the changes you made and any challenges you faced.
-
-We're excited to see your first web pages! Remember, practice is key to mastering web development. Good luck!
+Keep experimenting and refining your web page's style, and remember that CSS is a powerful tool for web developers. Tomorrow, we'll explore more advanced CSS techniques and continue building on the foundation you've laid today.
