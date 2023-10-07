@@ -6,7 +6,7 @@
 
 In this task, you will apply internal CSS to your web page. Follow these steps:
 
-1. Download the [index.html] file provided in this repository.
+1. Download the [index.html](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-3/index.html) file provided in this repository.
 
 2. Create a new GitHub repository named "WebMentorship-Day3-InternalCSS."
 
