@@ -62,12 +62,6 @@ Certainly, here's the markdown for Task 2 and Task 3:
    <img src="image_url_here" alt="Description of the image">
    ```
 
-3. Create at least two links within your content, linking to other web pages or websites. You can use the `<a>` (anchor) element to create links. Here's an example of how to add a link:
-   ```html
-   <a href="https://www.example.com">Visit Example Website</a>
-   ```
-   Make sure to replace `https://www.example.com` with the actual URL you want to link to.
-
 ### Task 3: Test Your Web Page
 
 1. Open your `index.html` file in a web browser to view your web page.
@@ -80,3 +74,6 @@ Certainly, here's the markdown for Task 2 and Task 3:
 
 Once you have completed these tasks, your web page should be ready for review and submission.
 ```
+
+### Task 4: Submit your code for review.
+1. Go to [SUBMISSIONS.md](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-2/SUBMISSIONS.md) to submit your code.
