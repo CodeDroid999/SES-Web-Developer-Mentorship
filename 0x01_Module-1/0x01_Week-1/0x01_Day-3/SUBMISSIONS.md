@@ -1,4 +1,5 @@
-# Day 2: Building Your First Web Page - Submissions
+# Day 3: Cascading Style Sheets (CSS)
+
 
 Welcome, participants! Please submit your Day 2 assignments here. We're excited to review your first styled web pages. 
 
