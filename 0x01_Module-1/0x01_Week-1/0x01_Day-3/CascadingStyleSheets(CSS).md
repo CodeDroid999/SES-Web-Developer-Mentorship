@@ -1,22 +1,36 @@
 # Tasks
 
-### Task 1: Internal CSS
 
-**Folder Structure:** `internal-css/`
+### Task 1: Creating a New GitHub Repository
+
+To keep track of your work for Day 3, we recommend creating a new GitHub repository. Follow these steps:
+
+1. Visit [GitHub](https://github.com/) and log in to your account.
+
+2. Click on the '+' icon in the top right corner of the page and select "New Repository."
+
+3. Name your repository (e.g., "SES-WebDev-Day3-css").
+
+4. Choose the visibility (public).
+
+5. Click "Create repository.". 
+
+6. Clone the new repository to your local machine using VsCode.
+
+7. Inside the local repository directory, create three new folders: `internal-css`, `external-css`, and `inline-css`.
+
+8. Download the [index.html](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-3/index.ml) file.
+5. Copy the downloaded `index.html` file and paste it into all three folders.
+
+Now, you have a dedicated repository to commit your code and tasks for Day 3. You can clone this repository to your local machine and work on your CSS tasks.
+
+### Task 2: Internal CSS
+
+**Folder** `internal-css/`
 
 In this task, you will apply internal CSS to your web page. Follow these steps:
 
-1. Download the [index.html](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-3/index.html) file provided in this repository.
-
-2. Create a new GitHub repository named "WebMentorship-Day3-CSS."
-
-3. Clone the new repository to your local machine using Git.
-
-4. Inside the local repository directory, create three new folders: `internal-css`, `external-css`, and `inline-css`.
-
-5. Copy the downloaded `index.html` file and paste it into all three folders.
-
-6. In the `index.html` file inside the `folder-internal`, apply internal CSS to style specific elements on your page. For example, you can change the font color, background color, or text size of your headings and paragraphs.
+1. In the `index.html` file inside the `internal-css`, apply internal CSS to style specific elements on your page. For example, you can change the font color, background color, or text size of your headings and paragraphs.
 
    ```
    html
@@ -36,9 +50,9 @@ In this task, you will apply internal CSS to your web page. Follow these steps:
    </style>
    ```
 
-7. Commit your changes with a meaningful message and push them to your GitHub repository.
+2. Commit your changes with a meaningful message and push them to your GitHub repository.
 
-### Task 2: External CSS
+### Task 3: External CSS
 
 **Folder** `external-css/`
 
@@ -77,7 +91,7 @@ In this task, you will apply external CSS to your web page. Follow these steps:
 
 3. Commit your changes with a meaningful message and push them to your GitHub repository.
 
-### Task 3: Applying In-line CSS
+### Task 4: In-line CSS
 
 **Folder** `inline-css/`
 

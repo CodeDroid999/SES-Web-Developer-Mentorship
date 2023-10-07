@@ -32,21 +32,7 @@ Before we start, here are some resources to help you learn CSS effectively:
 
 
 
-## Creating a New GitHub Repository
 
-To keep track of your work for Day 3, we recommend creating a new GitHub repository. Follow these steps:
-
-1. Visit [GitHub](https://github.com/) and log in to your account.
-
-2. Click on the '+' icon in the top right corner of the page and select "New Repository."
-
-3. Name your repository (e.g., "WebMentorship-Day3").
-
-4. Choose the visibility (public or private) as per your preference.
-
-5. Click "Create repository."
-
-Now, you have a dedicated repository to commit your code and tasks for Day 3. You can clone this repository to your local machine and work on your CSS tasks.
 
 ## Conclusion
 
