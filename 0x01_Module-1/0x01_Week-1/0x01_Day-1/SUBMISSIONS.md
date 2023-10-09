@@ -47,10 +47,10 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
-### [Your Name]
+### Harrizon olanda
 
-- **Blog Post:** [Blog Post](insert_link_here)
-- **GitHub Repository:** [GitHub Repo](insert_link_here)
+- **Blog Post:** [Blog Post](https://github.com/HarrizonOlanda/ses-web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/HarrizonOlanda/ses-web-mentorship/tree/main)
 - **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
 
 ---
