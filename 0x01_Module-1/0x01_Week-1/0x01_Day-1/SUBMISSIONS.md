@@ -55,11 +55,11 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
-### Your Name
+### Hillary Martin
 
-- **Blog Post:** [Blog Post](insert_link_here)
-- **GitHub Repository:** [GitHub Repo](insert_link_here)
-- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+- **Blog Post:** [Blog Post](https://github.com/murimzz1/murimi-web-dev1/tree/main)
+- **GitHub Repository:** [GitHub Repo](https://github.com/murimzz1/murimi-web-dev1)
+- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/hillary-murimi-473248239/)
 
 ---
 
