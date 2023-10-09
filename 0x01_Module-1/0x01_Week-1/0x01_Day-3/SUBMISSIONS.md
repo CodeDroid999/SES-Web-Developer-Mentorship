@@ -4,7 +4,7 @@ Welcome, participants! Please submit your Day 2 assignments here. We're excited 
 
 | Participant | Github Repo Link                 |
 | ----------- | -------------------------------- |
-| Name:       | [Link to Repo](insert_link_here) |
+| Amos Korir:       | [Link to Repo]((https://github.com/amos-kipngetich-korir/Webdev_Day3_CSS) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
