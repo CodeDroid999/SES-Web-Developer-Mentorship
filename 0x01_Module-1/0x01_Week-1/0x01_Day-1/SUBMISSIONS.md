@@ -55,10 +55,10 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
-### Your Name
+### Kuucha J Byron
 
-- **Blog Post:** [Blog Post](insert_link_here)
-- **GitHub Repository:** [GitHub Repo](insert_link_here)
+- **Blog Post:** [Blog Post](https://github.com/Byronkuucha/SES-Web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/Byronkuucha/SES-Web-mentorship)
 - **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
 
 ---
