@@ -46,7 +46,7 @@ git push origin <branch_name>
 
 | Participant   | Repository Link                |
 | ------------- | -------------------------------- |
-| Participant 1 | [Link to Repo](insert_link_here) |
+| Participant 1 | [Link to Repo](https://github.com/amos-kipngetich-korir/Day2_Web-Dev) |
 | Participant 2 | [Link to Repo](insert_link_here) |
 | Participant 3 | [Link to Repo](insert_link_here) |
 | Participant 4 | [Link to Repo](insert_link_here) |
