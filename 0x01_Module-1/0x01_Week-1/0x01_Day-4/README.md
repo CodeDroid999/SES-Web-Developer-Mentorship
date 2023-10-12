@@ -7,7 +7,6 @@ By the end of this day, you will have hands-on experience integrating these fram
 
 ## Learning Objectives
 By the end of this session, you should be able to:
-Certainly! Here are the revised and clickable links for the learning objectives:
 
 1. **[Understand the benefits of using CSS frameworks like Bootstrap and Tailwind CSS.](#benefits)**
 
@@ -17,7 +16,6 @@ Certainly! Here are the revised and clickable links for the learning objectives:
 
 4. **[Recognize when to choose one framework over the other based on project requirements.](#selection)**
 
-You can now click on the links to navigate directly to each learning objective.
 
 ## Resources
 Before we get started, let's explore some resources to help you learn more about Bootstrap and Tailwind CSS:
