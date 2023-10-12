@@ -34,7 +34,18 @@ Before we get started, let's explore some resources to help you learn more about
 
 Today's tasks involve adding Bootstrap and Tailwind CSS to a simple web page and using them to style various elements.
 
-### Task 1: Adding Bootstrap to Your Web Page
+
+### Task 1: Create a GitHub Repository
+1. Create a new GitHub repository named "SES-Web-CSS-Framework."
+
+2. Initialize the repository with a README file.
+
+3. Clone the repository to your local machine using Git.
+
+5. Prepare the repository for your CSS framework tasks by creating folders and files as needed.
+
+6. Commit the initial changes and push them to the remote repository.
+### Task 2: Adding Bootstrap to Your Web Page
 
 1. Open your text editor or integrated development environment (IDE).
 
@@ -42,7 +53,7 @@ Today's tasks involve adding Bootstrap and Tailwind CSS to a simple web page and
 
 3. Include the Bootstrap CSS and JavaScript files by adding the following code within the `<head>` section of your HTML file:
 
-```html
+```
 <link
   href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
   rel="stylesheet"
@@ -52,13 +63,13 @@ Today's tasks involve adding Bootstrap and Tailwind CSS to a simple web page and
 
 4. Within the `<body>` section of your HTML file, use Bootstrap classes to style the existing elements in your web page. For example, you can use the `container` class to create a responsive container, and the `btn` class to style buttons.
 
-### Task 2: Adding Tailwind CSS to Your Web Page
+### Task 3: Adding Tailwind CSS to Your Web Page
 
 1. Create a new HTML file named `index-tailwind.html`.
 
 2. Include the Tailwind CSS file by adding the following code within the `<head>` section of your HTML file:
 
-```html
+```
 <link
   href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
   rel="stylesheet"
@@ -67,7 +78,7 @@ Today's tasks involve adding Bootstrap and Tailwind CSS to a simple web page and
 
 3. Within the `<body>` section of your HTML file, use Tailwind CSS classes to style the existing elements in your web page. For example, you can use classes like `bg-blue-500` to set a background color and `text-white` to set text color.
 
-### Task 3: Compare and Contrast
+### Task 4: Compare and Contrast
 
 1. Once you've added Bootstrap and Tailwind CSS to your web pages and styled the elements, compare and contrast the two frameworks.
 
