@@ -1,41 +1,62 @@
-# Day 3: Cascading Style Sheets (CSS)
+Here's the content structure for Week 2, Day 4, Project 1 - Calculator:
 
-Welcome to Day 3 of our Web Mentorship Program! Today, we're delving into the world of Cascading Style Sheets (CSS), a crucial technology in web development. CSS allows you to control the presentation and layout of your web pages, making them visually appealing and user-friendly.
+## Week 2, Day 4: Project 1 - Calculator
 
-## Understanding CSS Basics
+Welcome to your first coding project! In this project, you'll be building a basic calculator using HTML, CSS, and JavaScript. The goal is to create a functional calculator that can perform arithmetic operations such as addition, subtraction, multiplication, and division.
 
-**CSS (Cascading Style Sheets)** is a stylesheet language used to describe the presentation and styling of HTML documents. With CSS, you can control the appearance of elements on your web pages, including fonts, colors, spacing, and layout. CSS follows a rule-based syntax, where you define rules that specify how different elements should be styled.
+### Project Requirements
 
-Key CSS Concepts:
-- **Selectors**: These define which HTML elements the styles will be applied to.
-- **Properties**: These determine what aspect of the element's style will be changed (e.g., color, font-size).
-- **Values**: Values are assigned to properties and define how the style should be applied (e.g., `red` for color, `20px` for font-size).
+1. **HTML Structure:**
+   - Create an HTML file named `calculator.html`.
+   - Design the basic structure of your calculator. This should include a display screen to show the input and output.
 
-CSS can be applied in three ways: **internal**, **external**, and **in-line**. Each method has its use cases and advantages.
+2. **CSS Styling:**
+   - Create a CSS file named `styles.css` to style your calculator.
+   - Apply CSS styles to make your calculator visually appealing.
 
-## Objectives
+3. **JavaScript Logic:**
+   - Create a JavaScript file named `script.js` to handle the calculator's functionality.
+   - Implement JavaScript functions to perform addition, subtraction, multiplication, and division.
+   - Ensure that the calculator can take user input and display results accurately.
 
-By the end of today's session, you will:
+4. **User Interaction:**
+   - Make sure that users can interact with your calculator using both mouse clicks and keyboard input.
+   - Implement a user-friendly interface with clear buttons and responsive design.
 
-1. Understand the purpose and importance of CSS in web development.
-2. Learn how to apply CSS styles using internal, external, and in-line methods.
-3. Gain hands-on experience in styling HTML elements to create visually appealing web pages.
+### Project Objectives
 
-## Resources
+By completing this project, you will achieve the following objectives:
 
-Before we start, here are some resources to help you learn CSS effectively:
+- Gain hands-on experience in creating a web application from scratch.
+- Develop your HTML, CSS, and JavaScript skills.
+- Learn how to design user interfaces and handle user interactions.
+- Understand the core principles of building interactive web applications.
 
-1. [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): A comprehensive guide to CSS properties and concepts.
-2. [W3Schools CSS Tutorial](https://www.w3schools.com/css/): Interactive tutorials and examples for learning CSS.
-3. [CSS-Tricks](https://css-tricks.com/): A website with articles, guides, and resources on CSS and front-end development.
-4. [CodePen](https://codepen.io/): An online code editor where you can experiment with HTML and CSS.
+### Resources
 
+To help you get started with this project, here are some resources:
 
+1. **HTML Introduction (Text Guide)**:
+   - [HTML Introduction - W3Schools](https://www.w3schools.com/html/html_intro.asp)
 
+2. **CSS Basics (Video Tutorial)**:
+   - [CSS Crash Course for Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
+3. **JavaScript Basics (Text Guide)**:
+   - [JavaScript Basics - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-## Conclusion
+### Tasks
 
-Today, you've taken your first steps into the world of CSS. You've explored different methods of applying CSS styles: internal, external, and in-line. As you continue to learn and practice, you'll gain the skills to create visually stunning and responsive web pages.
+Your main task for this project is to create a functional calculator application following the project requirements and objectives outlined above. Be sure to use your HTML, CSS, and JavaScript knowledge to build this interactive calculator.
 
-Keep experimenting and refining your web page's style, and remember that CSS is a powerful tool for web developers. Tomorrow, we'll explore more advanced CSS techniques and continue building on the foundation you've laid today.
+### Submission
+
+To submit your completed project:
+
+1. Create a new GitHub repository named `SES-Web-Calculator-Project`.
+2. Push your project files (HTML, CSS, and JavaScript) to this repository.
+3. Share the link to your repository in the "Project 1: Calculator" submissions section of the submissions.md file.
+
+Feel free to reach out for help and guidance as you work on this project. Good luck, and have fun building your calculator!
+
+Please note that this project is designed to challenge your web development skills and encourage independent learning. Take your time and enjoy the process. Happy coding!

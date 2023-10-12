@@ -17,4 +17,4 @@ In this submissions.md file, please fill in the participant and GitHub repositor
 _Please replace "name" with your name._
 _Please replace "insert_link_here" with the actual URL of your Repo._
 
-Thank you for your hard work, and we look forward to reviewing your work!
+Thank you for your hard work, and we look forward to reviewing your Calculators!

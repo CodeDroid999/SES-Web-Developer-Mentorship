@@ -1,32 +1,58 @@
-# Day 4: CSS Frameworks - Bootstrap and Tailwind CSS
+## Week 2, Day 4: Project 2 - Weather App
 
-## Introduction
-Welcome to Day 4 of the Web Mentorship Program! In today's session, we will explore the world of CSS frameworks, focusing on two popular choices: Bootstrap and Tailwind CSS. CSS frameworks provide pre-designed and pre-coded CSS classes and components that can significantly streamline the process of designing and styling web pages.
+Welcome to your next coding project! In this project, you'll be building a weather app using HTML, CSS, JavaScript, and APIs. The goal is to create a web-based application that allows users to check the current weather conditions in a specific location.
 
-By the end of this day, you will have hands-on experience integrating these frameworks into a web project and using them to style various elements. Let's dive in!
+### Project Requirements
 
-## Learning Objectives
-By the end of this session, you should be able to:
+1. **HTML Structure:**
+   - Create an HTML file named `weather.html`.
+   - Design the basic structure of your weather app. Include input fields for users to enter a location (city, country) and a button to fetch weather data.
 
-1. **[Understand the benefits of using CSS frameworks like Bootstrap and Tailwind CSS.](#benefits)**
+2. **CSS Styling:**
+   - Create a CSS file named `styles.css` to style your weather app.
+   - Apply CSS styles to make your app visually appealing and user-friendly.
 
-2. **[Integrate Bootstrap and Tailwind CSS into a web project.](#integration)**
+3. **JavaScript and API Integration:**
+   - Create a JavaScript file named `script.js` to handle the app's functionality.
+   - Integrate a weather API (e.g., OpenWeatherMap) to fetch weather data based on user input.
+   - Display the weather information, including temperature, weather conditions, and a weather icon.
 
-3. **[Utilize framework classes and components to style HTML elements effectively.](#styling)**
+4. **User Interaction:**
+   - Ensure that users can enter a location and trigger the weather data retrieval.
+   - Provide a responsive and interactive user interface.
 
-4. **[Recognize when to choose one framework over the other based on project requirements.](#selection)**
+### Project Objectives
 
+By completing this project, you will achieve the following objectives:
 
-## Resources
-Before we get started, let's explore some resources to help you learn more about Bootstrap and Tailwind CSS:
+- Develop your skills in using APIs to retrieve real-time data.
+- Enhance your HTML, CSS, and JavaScript knowledge.
+- Build a functional web application with real-world utility.
+- Learn how to create a responsive and user-friendly design.
 
-1. [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/): The official documentation for Bootstrap. It provides detailed information about components, CSS classes, and usage examples.
+### Resources
 
-2. [Tailwind CSS Documentation](https://tailwindcss.com/docs): The official documentation for Tailwind CSS. It offers comprehensive guidance on using Tailwind classes to style elements.
+To help you get started with this project, here are some resources:
 
-3. [Bootstrap vs. Tailwind CSS](https://blog.tailwindcss.com/bootstrap-to-tailwind): An article comparing Bootstrap and Tailwind CSS, helping you understand their differences and use cases.
+1. **Fetch API and JSON (Video Tutorial)**:
+   - [Fetch API and JSON - Traversy Media](https://www.youtube.com/watch?v=Oive66jrwBs)
 
-## Conclusion
-Today's exploration of Bootstrap and Tailwind CSS should provide you with valuable insights into how CSS frameworks can enhance your web development workflow. These frameworks offer a range of tools and components to help you create stunning and responsive web pages more efficiently.
+2. **HTML Forms (Text Guide)**:
+   - [HTML Forms - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
-As you complete today's tasks, think about when you might choose Bootstrap or Tailwind CSS for future projects based on your preferences and project requirements. Keep in mind that both frameworks have their strengths, and selecting the right one can significantly impact your web development journey.
+3. **OpenWeatherMap API Documentation (Official)**:
+   - [OpenWeatherMap API Documentation](https://openweathermap.org/api)
+
+### Tasks
+
+Your main task for this project is to create a functional weather app that can retrieve and display current weather conditions for a user-specified location. Use your HTML, CSS, and JavaScript skills to build this interactive app and make it as user-friendly as possible.
+
+### Submission
+
+To submit your completed project:
+
+1. Create a new GitHub repository named `SES-Web-Weather-App`.
+2. Push your project files (HTML, CSS, and JavaScript) to this repository.
+3. Share the link to your repository in the "Project 2: Weather App" submissions section of the submissions.md file.
+
+This project allows you to apply your knowledge to a real-world scenario. Enjoy the process, and if you have questions or need assistance, don't hesitate to reach out. Happy coding!
