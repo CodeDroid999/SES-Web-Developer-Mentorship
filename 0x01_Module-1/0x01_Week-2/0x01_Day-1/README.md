@@ -1,36 +1,86 @@
-# Welcome to the Web Mentorship Program: Introduction to the Internet!
+Here's the updated content for Week 2, Day 1: Responsive Web Design:
 
-## Day 1: Navigating the Digital Landscape
+# Week 2: Building Responsive Web Pages
+
+## Day 1: Introduction to Responsive Web Design
 
 ### Introduction
-Welcome, aspiring web enthusiasts, to the first day of our Web Mentorship Program. Over the next several weeks, we will embark on an exciting journey to demystify the world of the internet and empower you with the knowledge and skills needed to thrive in the digital age. Today, we'll lay the foundation by exploring the very heart of the online realm: the internet itself.
 
-As a web developer, you will be building buildings things for the internet. It is therefore only natural for you to understand what's the internet, how it works, its history and how  to navigate it. Go through the resources provided under learning objectives and complete the tasks that follow.
+Welcome to Week 2 of our Web Development mentorship program! In this week, we will explore the concept of responsive web design, a crucial skill for modern web developers. A responsive web design ensures that your web pages look and function well on a variety of devices and screen sizes, including desktops, tablets, and smartphones.
+
+In today's session, we'll introduce you to the foundations of responsive web design, and we'll guide you through the process of creating a responsive web page using JavaScript, jQuery, and SCSS.
 
 ### Learning Objectives
-1. **The Internet: A Brief Overview**
-   - Explore the [history of the internet](https://www.history.com/topics/inventions/invention-of-the-internet) and its significance.
-   - Discover the pioneers who shaped the internet with this article on [internet history](https://www.internetsociety.org/internet/history-internet/brief-history-internet/).
-   - Read about the ARPANET, the precursor to the internet, [here](https://www.livescience.com/20727-arpnet.html).
 
-2. **How Does the Internet Work?**
-   - Demystify the inner workings of the internet, including [IP addresses](https://www.cloudflare.com/learning/ddos/glossary/what-is-an-ip-address/), [routers](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/routers.html), and [data packets](https://www.webopedia.com/TERM/P/packet.html).
+By the end of this session, you will:
 
-3. **Internet Services and Protocols**
-   - Explore key internet services such as email, the [World Wide Web](https://www.explainthatstuff.com/internet.html), and more.
-   - Understand essential internet protocols like [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP), [FTP](https://www.cloudflare.com/learning/cdn/glossary/file-transfer-protocol-ftp/), and [SMTP](https://www.cloudflare.com/learning/ddos/glossary/what-is-smtp/).
+- Understand the importance of responsive web design.
+- Learn how to use JavaScript, jQuery, and SCSS for responsive web development.
+- Create a responsive web page that adapts to various screen sizes.
 
-4. **Browsers and Search Engines**
-   - Learn about web browsers and their significance in accessing the internet.
-   - Master the art of efficient web searching with [search engines](https://www.google.com/intl/en/search/howsearchworks/).
+### Resources
+
+To get started with responsive web design and the tools we'll use in this session, here are some resources to explore:
+
+1. **Responsive Web Design Basics (Article)**:
+   - [Responsive Web Design Basics](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/): This article explains the fundamental principles of responsive web design.
+
+2. **Media Queries in CSS (Article)**:
+   - [Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries): Learn about using media queries in CSS to adapt your styles to different screen sizes.
+
+3. **jQuery Documentation (Official)**:
+   - [jQuery Official Documentation](https://api.jquery.com/): Explore the official documentation for jQuery to understand how to use it for web development.
+
+4. **SCSS Basics (Video Tutorial)**:
+   - [SCSS Basics](https://www.youtube.com/watch?v=Zz6eOVGQy7o): This video tutorial provides an introduction to SCSS (Sass).
+
 ### Tasks
-### Conclusion
-Today marks the beginning of an exciting journey into the vast realm of the internet. We hope you're as enthusiastic as we are about exploring this digital landscape together.
 
-Remember, the internet is more than just a tool; it's a boundless source of knowledge, creativity, and opportunity. By the end of this mentorship program, you'll not only be proficient in navigating this vast terrain but also capable of contributing to it in meaningful ways.
+Today's tasks involve creating a responsive web page using JavaScript, jQuery, and SCSS. You will also create a GitHub repository to submit your work.
 
-As we wrap up today's session, keep in mind that curiosity and an eagerness to learn will be your most valuable companions on this journey. So, let's get started with Day 1 of our Web Mentorship Program: Introduction to the Internet!
+### Task 1: Create a GitHub Repository
 
-## Learning web design 
-Just started a new journey learning a new skill.I have done some basic training in web design and am so excited to continue learning. Am connecting with new people  learning and getting new ideas.This is definitely killing two birds with one stone and am loving every moment of it.
+1. Create a new GitHub repository named "SES_Web-Responsive_Web_Design."
 
+2. Initialize the repository with a README file.
+
+3. Make the repository public.
+
+### Task 2: Clone the Repository to Your Local Machine
+
+1. Clone the "SES_Web-Responsive_Web_Design" repository to your local machine using the `git clone` command.
+
+### Task 3: Download and Style "index.html" Responsively
+
+1. Download the provided `index.html` file from your GitHub repository to your local machine.
+
+2. Create a new folder structure inside your local repository with three folders: "jquery," "scss," and "javascript."
+
+3. Open the `index.html` file in a text editor.
+
+4. Implement responsive styling using JavaScript, jQuery, or SCSS by detecting the screen size and adjusting the font size and color of all paragraphs accordingly.
+
+   - You can use media queries in SCSS to manage responsive styles.
+   - For jQuery and JavaScript, use the provided sample code in the previous response to get started.
+
+5. Save your changes to the `index.html` file.
+
+6. Commit your changes using Git and push them to your GitHub repository.
+
+### Task 4: Create a Pull Request
+
+1. In your GitHub repository, click on the "Pull Requests" tab.
+
+2. Click the "New Pull Request" button.
+
+3. You should see your recent push as a new branch. Click on "Create pull request."
+
+4. Give your pull request a meaningful title and add comments or context about the changes.
+
+5. Click the "Create pull request" button.
+
+### Submission
+
+Please submit a link to your GitHub repository and your pull request for review. You've created a responsive version of the website by downloading `index.html` and using JavaScript, jQuery, or SCSS to adjust the font size and color of paragraphs based on the screen size. We look forward to reviewing your work!
+
+Great job, and keep exploring responsive web design in the upcoming sessions!
