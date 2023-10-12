@@ -1,104 +1,85 @@
-I've included Task 1, which involves creating the repo "SES-Web-CSS-Framework." Here's the updated content for Day 4:
-
-# Day 4: CSS Frameworks - Bootstrap and Tailwind CSS
+# Day 5: Multipage Sites and Navigation
 
 ## Introduction
 
-Welcome to Day 4 of the Web Mentorship Program! In today's session, we will explore the world of CSS frameworks, focusing on two popular choices: Bootstrap and Tailwind CSS. CSS frameworks provide pre-designed and pre-coded CSS classes and components that can significantly streamline the process of designing and styling web pages.
+Welcome to Day 5 of the Web Mentorship Program! Today, we'll delve into the world of multipage websites and learn how to create effective navigation elements to connect different pages. As a web developer, the ability to structure and navigate between web pages is a fundamental skill.
 
-By the end of this day, you will have hands-on experience integrating these frameworks into a web project and using them to style various elements. Let's dive in!
+In this session, we'll explore various types of links, including internal and external links, and how to implement a navigation bar that provides a seamless user experience when moving between different sections of a website. You'll also get hands-on experience by creating a simple multipage site and implementing navigation between the pages.
+
+Let's get started!
 
 ## Learning Objectives
 
 By the end of this session, you should be able to:
 
-1. **[Understand the benefits of using CSS frameworks like Bootstrap and Tailwind CSS.](#benefits)**
-
-2. **[Integrate Bootstrap and Tailwind CSS into a web project.](#integration)**
-
-3. **[Utilize framework classes and components to style HTML elements effectively.](#styling)**
-
-4. **[Recognize when to choose one framework over the other based on project requirements.](#selection)**
+1. **Understand the different types of links and their use cases.**
+2. **Create internal links within a web page to navigate to different sections or elements.**
+3. **Create external links to navigate to resources outside your website, such as external websites or documents.**
+4. **Implement a navigation bar to provide easy access to various pages on a website.**
+5. **Create a multipage website with consistent navigation for a user-friendly experience.**
 
 ## Resources
 
-Before we get started, let's explore some resources to help you learn more about Bootstrap and Tailwind CSS:
+Before we dive into the tasks, here are some resources to help you better grasp the concepts of links and navigation:
 
-### Bootstrap Resources:
+### Link Resources:
 
-1. **Official Bootstrap Documentation**:
+1. **HTML Links (MDN Web Docs)**:
+   - [HTML Links - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a): A comprehensive resource on creating HTML links.
 
-   - [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/): The official documentation for Bootstrap. It provides detailed information about components, CSS classes, and usage examples.
+2. **Creating Links (w3schools)**:
+   - [Creating Links - w3schools](https://www.w3schools.com/html/html_links.asp): A beginner-friendly guide on creating different types of links in HTML.
 
-2. **Bootstrap Crash Course (Video)**:
+### Navigation Bar Resources:
 
-   - [Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=4sosXZsdy-s): A video tutorial that gives you a comprehensive overview of Bootstrap 5.
+3. **Creating a Navigation Bar (w3schools)**:
+   - [Creating a Navigation Bar - w3schools](https://www.w3schools.com/howto/howto_js_topnav.asp): Learn how to create a responsive navigation bar with HTML and JavaScript.
 
-3. **Bootstrap vs. Tailwind CSS (Article)**:
-   - [Bootstrap vs. Tailwind CSS](https://blog.tailwindcss.com/bootstrap-to-tailwind): An article comparing Bootstrap and Tailwind CSS, helping you understand their differences and use cases.
-
-### Tailwind CSS Resources:
-
-1. **Official Tailwind CSS Documentation**:
-
-   - [Tailwind CSS Documentation](https://tailwindcss.com/docs): The official documentation for Tailwind CSS. It offers comprehensive guidance on using Tailwind classes to style elements.
-
-2. **Tailwind CSS Introduction (Video)**:
-
-   - [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME): A video crash course that introduces you to Tailwind CSS and its utility classes.
-
-3. **Tailwind CSS Textbook (Text Guide)**:
-   - [Tailwind CSS Textbook](https://www.tailwindtoolbox.com/tailwind-css-textbook): A comprehensive text guide to mastering Tailwind CSS.
-
-### Task 1: Creating the Repo "SES-Web-CSS-Framework"
-
-1. Create a new GitHub repository named "SES-Web-CSS-Framework."
-
-2. Initialize the repository with a README file.
-
-3. Clone the repository to your local machine using Git.
-
-4. Prepare the repository for your CSS framework tasks by creating folders and files as needed.
-
-5. Commit the initial changes and push them to the remote repository.
+4. **Responsive Navigation Bar (CodePen)**:
+   - [Responsive Navigation Bar - CodePen](https://codepen.io/enxaneta/pen/jegbEo): Explore a responsive navigation bar example on CodePen for hands-on experience.
 
 ## Tasks
 
-Today's tasks involve adding Bootstrap and Tailwind CSS to a simple web page and using them to style various elements.
+Today's tasks will provide you with hands-on experience in working with different types of links and creating a multipage website with a navigation bar. Follow the steps carefully, and don't hesitate to ask questions if you need assistance.
 
-### Task 1: Adding Bootstrap to Your Web Page
+### Task 1: Internal Links
+
+Internal links are used to navigate within the same web page, allowing you to link to different sections or elements. Let's practice creating internal links:
 
 1. Open your text editor or integrated development environment (IDE).
 
-2. Create a new HTML file named `index-bootstrap.html`.
+2. Create a new HTML file named `index.html`.
 
-3. Include the Bootstrap CSS and JavaScript files by adding the following code within the `<head>` section of your HTML file:
+3. Add content to your HTML file, including different sections with headings or elements.
 
-```html
-<link
-  href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
-  rel="stylesheet"
-/>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"></script>
-```
+4. Create internal links in the navigation menu that, when clicked, smoothly scroll to the corresponding sections within the page.
 
-4. Within the `<body>` section of your HTML file, use Bootstrap classes to style the existing elements in your web page. For example, you can use the `container` class to create a responsive container, and the `btn` class to style buttons.
+### Task 2: External Links
 
-### Task 2: Adding Tailwind CSS to Your Web Page
+External links are used to navigate to websites or resources outside of your own website. In this task, you'll create external links:
 
-1. Create a new HTML file named `index-tailwind.html`.
+1. Open your `index.html` file from Task 1.
 
-2. Include the Tailwind CSS file by adding the following code within the `<head>` section of your HTML file:
+2. Add a new section to your web page that includes links to external websites or resources. You can use social media profiles, your LinkedIn profile, or any websites of your choice.
 
-```html
-<link
-  href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
-  rel="stylesheet"
-/>
-```
+3. Create these links to open in a new tab or window for a seamless user experience.
 
-3. Within the `<body>` section of your HTML file, use Tailwind CSS classes to style the existing elements in your web page. For example, you can use classes like `bg-blue-500` to set a background color and `text-white` to set text color.
+### Task 3: Navigation Bar
 
-### Task 3: Compare and Contrast
+A navigation bar is a common feature on websites that provides easy access to different pages. In this task, you'll create a navigation bar that links to multiple pages:
 
-1. Once you've added Bootstrap and Tailwind CSS to your web pages and styled the elements,
+1. Create a new HTML file for a second page of your website, named `about.html`.
+
+2. Add a navigation bar to both your `index.html` and `about.html` pages. The navigation bar should include links to both pages.
+
+3. Ensure that clicking on these links takes you to the corresponding page.
+
+4. Make sure your navigation bar maintains a consistent appearance on both pages, providing a smooth and user-friendly navigation experience.
+
+### Conclusion
+
+By completing these tasks, you've gained valuable experience in creating different types of links and implementing navigation bars in multipage websites. These skills are fundamental in web development and will serve you well in future projects.
+
+Remember that practice is key to mastering these concepts, so feel free to experiment with your multipage site and explore more advanced navigation options in your own projects.
+
+Great job on completing Day 5 of our Web Mentorship Program! Keep up the good work.
