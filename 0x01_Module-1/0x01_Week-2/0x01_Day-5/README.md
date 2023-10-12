@@ -1,85 +1,61 @@
-# Day 5: Multipage Sites and Navigation
+# Week 2, Day 5 : To-Do App
+**Project 3: To-Do List Web App**
 
-## Introduction
+**Project Requirements:**
 
-Welcome to Day 5 of the Web Mentorship Program! Today, we'll delve into the world of multipage websites and learn how to create effective navigation elements to connect different pages. As a web developer, the ability to structure and navigate between web pages is a fundamental skill.
+1. **HTML Structure:**
+   - Begin by creating an HTML file named `todo.html` for your to-do list web app.
+   - Design the structure of your app, which should include input fields for users to add tasks, a list for displaying tasks, and buttons for completing or deleting tasks.
 
-In this session, we'll explore various types of links, including internal and external links, and how to implement a navigation bar that provides a seamless user experience when moving between different sections of a website. You'll also get hands-on experience by creating a simple multipage site and implementing navigation between the pages.
+2. **CSS Styling:**
+   - Craft a CSS file named `styles.css` to style your to-do list app.
+   - Apply CSS styles to enhance the visual appeal and user-friendliness of your app. A clean and intuitive design can greatly improve the user experience.
 
-Let's get started!
+3. **JavaScript Functionality:**
+   - Develop a JavaScript file named `app.js` to handle the app's functionality.
+   - Implement essential features, including adding tasks, marking tasks as completed, and deleting tasks.
+   - Utilize local storage to store tasks, ensuring that they persist even if the user refreshes the page.
 
-## Learning Objectives
+4. **User Interaction:**
+   - Ensure the app is user-friendly and interactive. Users should be able to seamlessly add, complete, and delete tasks.
+   - Make your app responsive, so it works smoothly on various devices and screen sizes.
 
-By the end of this session, you should be able to:
+**Project Objectives:**
 
-1. **Understand the different types of links and their use cases.**
-2. **Create internal links within a web page to navigate to different sections or elements.**
-3. **Create external links to navigate to resources outside your website, such as external websites or documents.**
-4. **Implement a navigation bar to provide easy access to various pages on a website.**
-5. **Create a multipage website with consistent navigation for a user-friendly experience.**
+By completing this project, students will:
 
-## Resources
+- **Reinforce Their Core Skills:** This project builds upon students' knowledge of HTML, CSS, and JavaScript, giving them hands-on practice in web development.
 
-Before we dive into the tasks, here are some resources to help you better grasp the concepts of links and navigation:
+- **Data Management:** Students gain experience in handling user input, managing data within the app, and working with local storage to save and retrieve tasks.
 
-### Link Resources:
+- **Web Development Proficiency:** Through this practical project, students have the opportunity to apply their web development skills to create a fully functional and interactive web application.
 
-1. **HTML Links (MDN Web Docs)**:
-   - [HTML Links - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a): A comprehensive resource on creating HTML links.
+- **Practical Application:** The To-Do List Web App is a practical and commonly used web application. Students can apply their skills to build a tool that is both functional and useful in everyday life.
 
-2. **Creating Links (w3schools)**:
-   - [Creating Links - w3schools](https://www.w3schools.com/html/html_links.asp): A beginner-friendly guide on creating different types of links in HTML.
+**Resources:**
 
-### Navigation Bar Resources:
+To assist students in completing this project, they can refer to the following resources:
 
-3. **Creating a Navigation Bar (w3schools)**:
-   - [Creating a Navigation Bar - w3schools](https://www.w3schools.com/howto/howto_js_topnav.asp): Learn how to create a responsive navigation bar with HTML and JavaScript.
+1. **Local Storage for Web Applications (Article)**:
+   - [Using the Web Storage API - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+   
+   Learn how to use local storage to store data on the user's device, making it accessible across sessions.
 
-4. **Responsive Navigation Bar (CodePen)**:
-   - [Responsive Navigation Bar - CodePen](https://codepen.io/enxaneta/pen/jegbEo): Explore a responsive navigation bar example on CodePen for hands-on experience.
+2. **JavaScript Event Handling (Video Tutorial)**:
+   - [JavaScript Event Listeners - Traversy Media](https://www.youtube.com/watch?v=tqFdZVpsHpE)
 
-## Tasks
+   Gain a deeper understanding of how JavaScript handles user interactions through event listeners.
 
-Today's tasks will provide you with hands-on experience in working with different types of links and creating a multipage website with a navigation bar. Follow the steps carefully, and don't hesitate to ask questions if you need assistance.
+3. **CSS Flexbox (Text Guide)**:
+   - [CSS Flexbox - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-### Task 1: Internal Links
+   Explore the power of CSS flexbox, a flexible layout model that can help improve the design of your web app.
 
-Internal links are used to navigate within the same web page, allowing you to link to different sections or elements. Let's practice creating internal links:
+4. **JavaScript Array Methods (Article)**:
+   - [JavaScript Array Methods - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-1. Open your text editor or integrated development environment (IDE).
+   Dive into JavaScript array methods to work with tasks and create a smooth user experience.
 
-2. Create a new HTML file named `index.html`.
+**Submission:**
 
-3. Add content to your HTML file, including different sections with headings or elements.
-
-4. Create internal links in the navigation menu that, when clicked, smoothly scroll to the corresponding sections within the page.
-
-### Task 2: External Links
-
-External links are used to navigate to websites or resources outside of your own website. In this task, you'll create external links:
-
-1. Open your `index.html` file from Task 1.
-
-2. Add a new section to your web page that includes links to external websites or resources. You can use social media profiles, your LinkedIn profile, or any websites of your choice.
-
-3. Create these links to open in a new tab or window for a seamless user experience.
-
-### Task 3: Navigation Bar
-
-A navigation bar is a common feature on websites that provides easy access to different pages. In this task, you'll create a navigation bar that links to multiple pages:
-
-1. Create a new HTML file for a second page of your website, named `about.html`.
-
-2. Add a navigation bar to both your `index.html` and `about.html` pages. The navigation bar should include links to both pages.
-
-3. Ensure that clicking on these links takes you to the corresponding page.
-
-4. Make sure your navigation bar maintains a consistent appearance on both pages, providing a smooth and user-friendly navigation experience.
-
-### Conclusion
-
-By completing these tasks, you've gained valuable experience in creating different types of links and implementing navigation bars in multipage websites. These skills are fundamental in web development and will serve you well in future projects.
-
-Remember that practice is key to mastering these concepts, so feel free to experiment with your multipage site and explore more advanced navigation options in your own projects.
-
-Great job on completing Day 5 of our Web Mentorship Program! Keep up the good work.
+To submit their completed To-Do List Web App project, students should create a new GitHub repository and push their project files (HTML, CSS, and JavaScript) to this repository. After that, they should share the repository link in the submissions section of the submissions.md file. This project allows students to apply what they've learned to create a practical and interactive web app.

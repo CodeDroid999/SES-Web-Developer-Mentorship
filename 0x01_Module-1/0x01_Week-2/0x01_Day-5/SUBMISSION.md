@@ -16,4 +16,4 @@ Welcome, participants! Please submit your Day 4 assignments here. We're excited 
 _Please replace "name" with your name._
 _Please replace "insert_link_here" with the actual URL of your Repo._
 
-Thank you for your hard work, and we look forward to reviewing your web pages!
+Thank you for your hard work, and we look forward to reviewing your To-Do Apps!
