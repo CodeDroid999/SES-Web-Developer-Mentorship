@@ -29,14 +29,8 @@ git add .
 git commit -m "Add Day 2 web page"
 ```
 
-5. **Push Your Branch**:
-   - Push your branch to your forked repository on GitHub:
 
-```
-git push origin <branch_name>
-```
-
-7. **Create a Pull Request**:
+6. **Create a Pull Request**:
    - Go to your forked repository on GitHub.
    - Click the "New Pull Request" button.
    - Compare your branch to the main branch of the original repository.
