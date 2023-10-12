@@ -36,8 +36,10 @@ Today's tasks involve adding Bootstrap and Tailwind CSS to a simple web page and
 
 
 ### Task 1: Create a GitHub Repository
-1. Create a new GitHub repository named "SES-Web-CSS-Framework."
-
+1. Create a new GitHub repository named "SES-Web-CSS-Framework"
+```
+SES-Web-CSS-Frameworks
+```
 2. Initialize the repository with a README file.
 
 3. Clone the repository to your local machine using Git.
