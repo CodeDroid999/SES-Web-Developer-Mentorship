@@ -1,125 +1,108 @@
-# Day 2: Building Your First Web Page
+# Week2 Day2: Introduction to JavaScript
 
 ## Introduction
 
-Welcome to Day 2 of the Web Mentorship Program! In today's session, we'll take your foundational knowledge from Day 1 and put it into action. You'll be building your first web page, applying what you've learned about HTML, semantic elements, and web structure. Let's dive in!
+Welcome to Day 2 of Week 2! Today, we dive into the fundamental programming language for web development - JavaScript. JavaScript is the scripting language that makes your web pages interactive. Whether you want to build dynamic web applications or create interactive features, JavaScript is the key to bringing your web pages to life.
+
+In today's session, we will start with the basics of JavaScript, understand how to write and execute JavaScript code, and explore the Document Object Model (DOM). The DOM is the representation of the web page's structure that JavaScript can interact with, allowing us to create dynamic and responsive web applications.
 
 ## Learning Objectives
 
-By the end of Day 2, you should be able to:
+By the end of this session, you will:
 
-1. **Create a Basic Web Page:**
-
-   - Construct a simple HTML structure for a web page.
-   - Utilize semantic HTML elements for content.
-
-2. **Structure Content:**
-
-   - Understand the importance of proper content structure for accessibility and SEO.
-   - Use headings, paragraphs, lists, and other HTML elements effectively.
-
-3. **Add Images and Links:**
-   - Embed images into your web page using HTML.
-   - Create links to navigate between web pages.
+- Understand the basics of JavaScript, including variables, data types, and basic syntax.
+- Learn how to write JavaScript code in an HTML document.
+- Gain insights into JavaScript's role in making web pages interactive.
+- Explore the DOM and how JavaScript can manipulate web page elements.
+- Practice hands-on examples to solidify your understanding.
 
 ## Resources
 
-Here are some resources to help you with today's tasks:
+Let's get started by exploring some resources to help you learn JavaScript and DOM manipulation:
 
-1. **HTML Basics**:
-   - [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
-   - [HTML Semantic Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-2. **Images and Links**:
-   - [HTML Images](https://www.w3schools.com/html/html_images.asp)
-   - [HTML Links](https://www.w3schools.com/html/html_links.asp)
+### JavaScript Basics:
 
----
+1. **MDN Web Docs: JavaScript Guide**:
+
+   - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide): A comprehensive guide to JavaScript by Mozilla Developer Network (MDN).
+
+2. **freeCodeCamp JavaScript Tutorials**:
+
+   - [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/): Interactive tutorials to learn JavaScript, provided by freeCodeCamp.
+
+3. **JavaScript.info**:
+
+   - [JavaScript.info](https://javascript.info/): A modern JavaScript tutorial with an interactive coding playground.
+
+4. **W3Schools JavaScript Tutorial**:
+   - [W3Schools JavaScript](https://www.w3schools.com/js/): Interactive tutorials, examples, and exercises for learning JavaScript.
+
+### DOM Manipulation:
+
+1. **MDN Web Docs: Document Object Model (DOM)**:
+
+   - [MDN DOM Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model): MDN's documentation on the DOM, explaining how web pages are structured.
+
+2. **W3Schools DOM Tutorial**:
+   - [W3Schools DOM](https://www.w3schools.com/js/js_htmldom.asp): Interactive tutorials on how to manipulate HTML documents with the DOM.
 
 ## Tasks
 
-### Task 1: Create Your Web Page
+Today's tasks will involve practicing the basics of JavaScript and working with the DOM to make simple web page modifications.
 
-1. Open your text editor or integrated development environment (IDE).
-2. Create a new HTML file named \`index.html\`. You can copy and paste the following command into your terminal to create the file:
+### Task 1: Create a GitHub Repo
 
-```
-index.html
-```
-
-3. Set the title **Catopedia** for your web page by adding the `<title>` element within the `<head>` section. This is a title that reflects the content of your page.
-4. Build a basic web page structure with the following elements:
-   - Use a `<header>` element to create a header section.
-   - Use a `<nav>` element to create a navigation menu.
-   - Use a `<main>` element to define the main content of your page.
-   - Use a `<footer>` element to create a footer section.
-5. Within the `<main>` section, include a heading (`<h1>`) with a meaningful title for your web page.
-6. Create a section for displaying cat images. You can use the `<img>` element to display at least three cat images. Here are some stock photo links for different cat breeds:
-   - Siamese Cat: <a href="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST4vFqkon9beoNKaEGwJsaFJTR7l61rtMhYJgvHEWuc0QT5ajF">Click to view image 1</a>
-   - Maine Coon Cat: <a href="https://media.istockphoto.com/id/819476630/photo/portrait-of-maine-coon-cat-on-black-background.jpg?s=612x612&w=0&k=20&c=-LjNMvz5RQOIczZS3QhI0ElDyi8a2esqbB-OT8QLkak=">Click to view Image 2</a>
-   - Persian Cat: <a href="https://media.istockphoto.com/id/1135793728/photo/white-persian-cats.jpg?s=612x612&w=0&k=20&c=UeroNOVgXc3wUrR_tIBhT1uH_iAoH_ZZo9I95_L-mqU=">Click to view image 3</a>
-7. For each cat breed, provide the following information using appropriate HTML elements:
-
-   - **The breed of the cat**: Use a `<h2>` element to create a subheading for the breed name. For example:
+1. Create a new GitHub repository with the name `SES-Web_Introduction-to-JavaScript`. You can create a new repository on GitHub's website.
 
 ```
-<h2>Siamese Cat</h2>
+SES-Web_Introduction-to-JavaScript
 ```
 
-- **Lifespan of the breed**: Use a `<p>` (paragraph) element to display the lifespan information. For example:
+### Task 2: Basic JavaScript Practice
+
+1. Create a new HTML file named `index-js.html`.
 
 ```
-<p>Lifespan: 15-20 years</p>
+index-js.html
 ```
 
-- **Characteristics of the breed**: Use an unordered list `<ul>` with list items `<li>` to list the characteristics. For example:
+2. Inside the `<body>` section, use the `<script>` tag to write JavaScript code that accomplishes the following:
 
-```
-<h3>Characteristics:</h3>
-<ul>
-<li>Distinctive color points on the ears, face, paws, and tail</li>
-<li>Blue almond-shaped eyes</li>
-<li>Short coat with a sleek appearance</li>
-</ul>
-```
+   - Declare a variable.
+   - Assign a value to the variable.
+   - Use `console.log()` to display the value in the browser's console.
 
-- **Other interesting facts or information about the breed**: Use a `<p>` element to provide additional information. For example:
+3. Open the HTML file in a web browser and inspect the browser's console to verify that your JavaScript code executed correctly.
 
-```
-<p>The Siamese cat is known for its vocal nature and social personality.</p>
-```
+### Task 3: DOM Manipulation
 
-Repeat these HTML structure elements for each of the three cat breeds you are featuring on your web page (Siamese, Maine Coon, and Persian).
+1. Create another HTML file named `dom-manipulation.html`.
 
-### Task 2: Add Images and Links
+2. Build a simple HTML structure with a heading, a paragraph, and a button.
 
-1. Find an image online or use one from your computer.
-2. Add the image to your web page using the `<img>` element.
-3. Create at least two links within your content, linking to other web pages or websites.
+3. Write JavaScript code to do the following:
 
-### Task 3: Test Your Web Page
+   - Select the button element using JavaScript.
+   - Add an event listener to the button so that when it's clicked, it changes the text of the paragraph.
 
-1. Open your `index.html` file in a web browser to view your web page.
-2. Ensure that the structure and content appear as intended.
+4. Open the HTML file in a web browser and test your interactive page. Click the button to see the text change in response.
 
----
+### Task 4: Interactive Web Page
 
-### Expected results
+1. Create a new HTML file named `interactive-page.html`.
 
-Your webpage should look something like:
-![Alt text](index.jpg)
+2. Build an HTML structure that includes a heading, a button, and a div element.
 
----
+3. Write JavaScript code to do the following:
 
-## Submission
+   - Select the button and div elements using JavaScript.
+   - Add an event listener to the button.
+   - When the button is clicked, use JavaScript to toggle the visibility of the div element.
 
-To submit your work for Day 2, follow these steps:
+4. Open the HTML file in a web browser to test your interactive web page. Click the button to show or hide the content within the div.
 
-1. Create a new Repository (you can name it something like "SES-Webdev-Day2").
-2. Add the project files  to your repo 
-3. Commit your changes to this repo.
-4. Push changes to your repository on GitHub.
-5. Add a link to your repo in [SUBMISSIOns.md](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-2/SUBMISSIONS.md)
-4. Create a pull request to this repository.
-5. In the pull request description, briefly describe the changes you made and any challenges you faced.
+Remember to experiment and get comfortable with JavaScript's syntax and the basics of DOM manipulation. These foundational skills will be incredibly valuable as you continue your journey in web development.
 
-We're excited to see your first web pages! Remember, practice is key to mastering web development. Good luck!
+## Conclusion
+
+Today, you've embarked on your JavaScript journey. We covered the basics and explored how JavaScript can interact with the DOM to make web pages dynamic and responsive. As you continue to learn and practice, you'll gain the skills needed to create interactive web applications. Stay curious and keep coding!
