@@ -22,44 +22,6 @@ Before we get started, let's explore some resources to help you learn more about
 
 3. [Bootstrap vs. Tailwind CSS](https://blog.tailwindcss.com/bootstrap-to-tailwind): An article comparing Bootstrap and Tailwind CSS, helping you understand their differences and use cases.
 
-## Tasks
-Today's tasks involve adding Bootstrap and Tailwind CSS to a simple web page and using them to style various elements.
-
-### Task 1: Adding Bootstrap to Your Web Page
-
-1. Open your text editor or integrated development environment (IDE).
-
-2. Create a new HTML file named `index-bootstrap.html`.
-
-3. Include the Bootstrap CSS and JavaScript files by adding the following code within the `<head>` section of your HTML file:
-
-```
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js"></script>
-```
-
-4. Within the `<body>` section of your HTML file, use Bootstrap classes to style the existing elements in your web page. For example, you can use the `container` class to create a responsive container, and the `btn` class to style buttons.
-
-### Task 2: Adding Tailwind CSS to Your Web Page
-
-1. Create a new HTML file named `index-tailwind.html`.
-
-2. Include the Tailwind CSS file by adding the following code within the `<head>` section of your HTML file:
-
-```
-<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-```
-
-3. Within the `<body>` section of your HTML file, use Tailwind CSS classes to style the existing elements in your web page. For example, you can use classes like `bg-blue-500` to set a background color and `text-white` to set text color.
-
-### Task 3: Compare and Contrast
-
-1. Once you've added Bootstrap and Tailwind CSS to your web pages and styled the elements, compare and contrast the two frameworks.
-
-2. Take note of the differences in terms of ease of use, customization options, and the overall styling experience.
-
-3. Consider which framework you found more suitable for your specific web project.
-
 ## Conclusion
 Today's exploration of Bootstrap and Tailwind CSS should provide you with valuable insights into how CSS frameworks can enhance your web development workflow. These frameworks offer a range of tools and components to help you create stunning and responsive web pages more efficiently.
 
