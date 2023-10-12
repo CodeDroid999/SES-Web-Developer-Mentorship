@@ -1,6 +1,23 @@
-# Day 3: Cascading Style Sheets (CSS)
+# Week 2, Day 3: Advanced JavaScript - Fetch API and AJAX
 
-Welcome, participants! Please submit your Day 2 assignments here. We're excited to review your first styled web pages.
+## Introduction
+
+Thank you for participating in Week 2, Day 3 of our web development program! To submit your tasks, please follow the instructions below:
+In this submissions.md file, please fill in the participant and GitHub repository link details in the table below. Replace "Your Name" with your name and "insert_link_here" with the actual URL of your repository.
+
+## Submissions
+
+| Task          | Participant | GitHub Repo Link                 |
+| ------------- | ----------- | -------------------------------- |
+| Task 2        | Your Name   | [Link to Repo](insert_link_here) |
+| Task 3        | Your Name   | [Link to Repo](insert_link_here) |
+| Task 4        | Your Name   | [Link to Repo](insert_link_here) |
+| Advanced Task | Your Name   | [Link to Repo](insert_link_here) |
+
+Thank you for your participation, and we look forward to reviewing your work!
+
+
+
 
 | Participant | Github Repo Link                 |
 | ----------- | -------------------------------- |
