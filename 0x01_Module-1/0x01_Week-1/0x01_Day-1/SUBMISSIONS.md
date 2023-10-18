@@ -47,11 +47,11 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
-### [Your Name]
+### [ANN LYNETTE]
 
-- **Blog Post:** [Blog Post](insert_link_here)
-- **GitHub Repository:** [GitHub Repo](insert_link_here)
-- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+- **Blog Post:** [Blog Post](file:///C:/Users/USER/OneDrive/Desktop/WAKARIMA%20WEB%20DESIGN%20FOLDER/blog.html)
+- **GitHub Repository:** [GitHub Repo]([insert_link_here](https://github.com/Wakarimzzz/SES-Web-Developer-Mentorship-Rep))
+- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/wakarima-ndegwa-9955111b5/)
 
 ---
 
