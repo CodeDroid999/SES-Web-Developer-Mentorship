@@ -47,19 +47,27 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
-### Harrizon olanda
-
-- **Blog Post:** [Blog Post](https://github.com/HarrizonOlanda/ses-web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
-- **GitHub Repository:** [GitHub Repo](https://github.com/HarrizonOlanda/ses-web-mentorship/tree/main)
-- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
 
 ---
 
-### Your Name
+### Hillary Martin
 
-- **Blog Post:** [Blog Post](insert_link_here)
-- **GitHub Repository:** [GitHub Repo](insert_link_here)
-- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+- **Blog Post:** [Blog Post](https://github.com/murimzz1/murimi-web-dev1/tree/main)
+- **GitHub Repository:** [GitHub Repo](https://github.com/murimzz1/murimi-web-dev1)
+- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/hillary-murimi-473248239/)
 
 ---
+
+### Nasibo Yussuf
+
+- **Blog Post:** [Blog Post](https://github.com/Nasib-04/Ses-web-mentorship/tree/main/0x01_Introduction-to-the-internet)
+- **GitHub Repository:** [GitHub Repo](https://github.com/Nasib-04/Ses-web-mentorship)
+- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+=======
+### Nickson K Rop
+
+- **Blog Post:** [Blog Post](https://github.com/nicky-ops/SES-Web-mentorship)
+- **GitHub Repository:** [GitHub Repo](https://github.com/nicky-ops/SES-Web-mentorship)
+- **Social Media Profile (Optional):** [Social Media Profile](https://twitter.com/nickyrutto)
+
 
