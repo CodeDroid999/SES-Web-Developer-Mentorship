@@ -49,13 +49,6 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 
 ---
-### Obed G Wambugu
-
-- **Blog Post:** [Blog Post](https://github.com/sbgaks/SES-Web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
-- **GitHub Repository:** [GitHub Repo](https://github.com/sbgaks/SES-Web-mentorship/tree/main)
-- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/obed-wambugu-a74839229/)
-
----
 
 ### Hillary Martin
 
