@@ -4,8 +4,6 @@ Welcome, participants! Please submit your Day 2 assignments here. We're excited 
 
 | Participant | Github Repo Link                 |
 | ----------- | -------------------------------- |
-| Name:  Hillary Martin Ndaru Murimi     | [Link to Repo](https://github.com/murimzz1/Ses-Web-Day3) |
-| Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
