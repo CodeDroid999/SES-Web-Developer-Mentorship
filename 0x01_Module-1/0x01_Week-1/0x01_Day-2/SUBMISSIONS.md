@@ -49,8 +49,12 @@ git commit -m "Add Day 2 web page"
 | Participant 2 | [Link to Repo](https://github.com/murimzz1/Ses-Web-Day2/blob/main/catasst.html) |
 | Participant 5 | [Link to Repo](insert_link_here) |
 | Participant 2 | [Link to Repo](https://github.com/Kabaria33/SES-Webdev-Day2) |
+| Daniel Mecha | [Link to Repo](https://github.com/AyiokaMecha/SES-Webdev-Day2/blob/main/index.html) |
+| Participant 2 | [Link to Repo](https://github.com/murimzz1/Ses-Web-Day2/blob/main/catasst.html) |
 
 
-_Please replace "insert_link_here" with the actual URL of your pull request._
+
+_Please replace "insert_link_here" with the actual URL of your Github Repo_
+_Please replace "Participant #" with your name_
 
 Thank you for your hard work, and we look forward to reviewing your web pages!
