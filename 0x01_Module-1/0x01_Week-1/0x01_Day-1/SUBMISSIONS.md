@@ -82,3 +82,13 @@ Thank you for sharing your work with the community! This is a great opportunity 
 - **GitHub Repository:** [GitHub Repo](https://github.com/sbgaks/SES-Web-mentorship/tree/main)
 - **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/obed-wambugu-a74839229/)
 
+### Kuucha J Byron
+
+- **Blog Post:** [Blog Post](https://github.com/Byronkuucha/SES-Web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/Byronkuucha/SES-Web-mentorship)
+=======
+### Harrizon olanda
+
+- **Blog Post:** [Blog Post](https://github.com/HarrizonOlanda/ses-web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/HarrizonOlanda/ses-web-mentorship/tree/main)
+
