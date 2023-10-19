@@ -41,9 +41,7 @@ git commit -m "Add Day 2 web page"
 | Participant   | Repository Link                |
 | ------------- | -------------------------------- |
 | Participant 1 | [Link to Repo](https://github.com/amos-kipngetich-korir/Day2_Web-Dev) |
-| Participant 5 | [Link to Repo](insert_link_here) |
-<<<<<<< patch-1
-| Participant 2 | [Link to Repo](https://github.com/Kabaria33/SES-Webdev-Day2) |
+
 | Participant 3 | [Link to Repo](insert_link_here) |
 | Participant 4 | [Link to Repo](insert_link_here) |
 | Participant 2 | [Link to Repo](insert_link_here) |
