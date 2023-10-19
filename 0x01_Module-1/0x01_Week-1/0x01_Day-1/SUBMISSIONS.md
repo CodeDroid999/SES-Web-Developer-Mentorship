@@ -65,3 +65,16 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
+### Nasibo Yussuf
+
+- **Blog Post:** [Blog Post](https://github.com/Nasib-04/Ses-web-mentorship/tree/main/0x01_Introduction-to-the-internet)
+- **GitHub Repository:** [GitHub Repo](https://github.com/Nasib-04/Ses-web-mentorship)
+- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+=======
+### Nickson K Rop
+
+- **Blog Post:** [Blog Post](https://github.com/nicky-ops/SES-Web-mentorship)
+- **GitHub Repository:** [GitHub Repo](https://github.com/nicky-ops/SES-Web-mentorship)
+- **Social Media Profile (Optional):** [Social Media Profile](https://twitter.com/nickyrutto)
+
+
