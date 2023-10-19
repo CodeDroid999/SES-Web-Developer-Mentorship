@@ -78,3 +78,17 @@ Thank you for sharing your work with the community! This is a great opportunity 
 - **Social Media Profile (Optional):** [Social Media Profile](https://twitter.com/nickyrutto)
 
 
+### Harrizon olanda
+
+- **Blog Post:** [Blog Post](https://github.com/HarrizonOlanda/ses-web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/HarrizonOlanda/ses-web-mentorship/tree/main)
+- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+=======
+
+---
+### Obed G Wambugu
+
+- **Blog Post:** [Blog Post](https://github.com/sbgaks/SES-Web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/sbgaks/SES-Web-mentorship/tree/main)
+- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/obed-wambugu-a74839229/)
+
