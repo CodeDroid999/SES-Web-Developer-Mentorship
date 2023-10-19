@@ -29,14 +29,8 @@ git add .
 git commit -m "Add Day 2 web page"
 ```
 
-5. **Push Your Branch**:
-   - Push your branch to your forked repository on GitHub:
 
-```
-git push origin <branch_name>
-```
-
-7. **Create a Pull Request**:
+6. **Create a Pull Request**:
    - Go to your forked repository on GitHub.
    - Click the "New Pull Request" button.
    - Compare your branch to the main branch of the original repository.
@@ -47,9 +41,6 @@ git push origin <branch_name>
 | Participant   | Repository Link                |
 | ------------- | -------------------------------- |
 | Participant 1 | [Link to Repo](https://github.com/amos-kipngetich-korir/Day2_Web-Dev) |
-| Participant 2 | [Link to Repo](https://github.com/Kabaria33/SES-Webdev-Day2) |
-| Participant 3 | [Link to Repo](insert_link_here) |
-| Participant 4 | [Link to Repo](insert_link_here) |
 | Participant 5 | [Link to Repo](insert_link_here) |
 
 _Please replace "insert_link_here" with the actual URL of your pull request._
