@@ -5,7 +5,7 @@ Welcome, participants! Please submit your Day 2 assignments here. We're excited 
 | Participant | Github Repo Link                 |
 | ----------- | -------------------------------- |
 | Name:  John Mwwega     | [Link to Repo](https://github.com/CodeDroid999/SES-WebDev-Day3-css) |
-| Name:  Daniel Mecha     | [Link to Repo](https://github.com/AyiokaMecha/SES-WebDev-Day3-css.git) |
+
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |

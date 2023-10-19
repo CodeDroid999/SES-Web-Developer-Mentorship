@@ -4,7 +4,7 @@ Welcome, participants! Please submit your Day 4 assignments here. We're excited 
 
 | Participant | Github Repo Link                 |
 | ----------- | -------------------------------- |
-| Daniel Mecha       | [Link to Repo](https://github.com/AyiokaMecha/SES-Web-CSS-Frameworks.git) |
+
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
