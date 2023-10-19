@@ -114,10 +114,12 @@ Your webpage should look something like:
 
 To submit your work for Day 2, follow these steps:
 
-1. Create a new branch in your forked repository (you can name it something like "day2-webpage").
-2. Commit your changes to this branch.
-3. Push your branch to your forked repository on GitHub.
-4. Create a pull request to the original repository, comparing your branch to the main branch.
+1. Create a new Repository (you can name it something like "SES-Webdev-Day2").
+2. Add the project files  to your repo 
+3. Commit your changes to this repo.
+4. Push changes to your repository on GitHub.
+5. Add a link to your repo in [SUBMISSIOns.md](https://github.com/CodeDroid999/SES-Web-Developer-Mentorship/blob/main/0x01_Module-1/0x01_Week-1/0x01_Day-2/SUBMISSIONS.md)
+4. Create a pull request to this repository.
 5. In the pull request description, briefly describe the changes you made and any challenges you faced.
 
 We're excited to see your first web pages! Remember, practice is key to mastering web development. Good luck!

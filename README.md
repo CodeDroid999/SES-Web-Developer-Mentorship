@@ -3,10 +3,7 @@ The Website Mentorship is a 3-month intensive program for aspiring web developer
 # Roadmap
 
 ![Alt text](./assets/frontend_roadmap.jpg)
-
-
 # Course Outline
-
 **Module 1: Foundation**
 
 *Personal Recommendation / Opinion*  
