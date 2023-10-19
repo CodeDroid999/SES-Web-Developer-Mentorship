@@ -91,4 +91,9 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 - **Blog Post:** [Blog Post](https://github.com/HarrizonOlanda/ses-web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
 - **GitHub Repository:** [GitHub Repo](https://github.com/HarrizonOlanda/ses-web-mentorship/tree/main)
+---
+### Daniel Mecha
+- **Blog Post:** [Blog post](https://github.com/AyiokaMecha/SES-Web-Developer-Mentorship/blob/main/README.md)
+- **Github Repository:** [GitHub Repo](https://github.com/AyiokaMecha/SES-Web-Developer-Mentorship.git)
+- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/daniel-ayioka-a4318b263/)
 
