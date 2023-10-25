@@ -41,25 +41,52 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ### Amos Sagit
 
-- **Blog Post:** [Blog Post](https://github.com/amos-kipngetich-korir)
+- **Blog Post:** [Blog Post](https://github.com/amos-kipngetich-korir  
 - **GitHub Repository:** [GitHub Repo](https://github.com/amos-kipngetich-korir/SES-Web-Developer-Mentorship))
 - **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/amos-sagit-9369441b3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1jsYdEQCTbWN3X%2BBZFZB%2BA%3D%3D)
 
 ---
 
-### [ANN LYNETTE]
-
-- **Blog Post:** [Blog Post](file:///C:/Users/USER/OneDrive/Desktop/WAKARIMA%20WEB%20DESIGN%20FOLDER/blog.html)
-- **GitHub Repository:** [GitHub Repo]([insert_link_here](https://github.com/Wakarimzzz/SES-Web-Developer-Mentorship-Rep))
-- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/wakarima-ndegwa-9955111b5/)
 
 ---
 
-### Your Name
+### Nasibo Yussuf
 
-- **Blog Post:** [Blog Post](insert_link_here)
-- **GitHub Repository:** [GitHub Repo](insert_link_here)
+- **Blog Post:** [Blog Post](https://github.com/Nasib-04/Ses-web-mentorship/tree/main/0x01_Introduction-to-the-internet)
+- **GitHub Repository:** [GitHub Repo](https://github.com/Nasib-04/Ses-web-mentorship)
 - **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+=======
+### Nickson K Rop
+
+- **Blog Post:** [Blog Post](https://github.com/nicky-ops/SES-Web-mentorship)
+- **GitHub Repository:** [GitHub Repo](https://github.com/nicky-ops/SES-Web-mentorship)
+- **Social Media Profile (Optional):** [Social Media Profile](https://twitter.com/nickyrutto)
+
+
+
+- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+=======
 
 ---
+### Obed G Wambugu
 
+- **Blog Post:** [Blog Post](https://github.com/sbgaks/SES-Web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/sbgaks/SES-Web-mentorship/tree/main)
+- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/obed-wambugu-a74839229/)
+
+### Kuucha J Byron
+
+- **Blog Post:** [Blog Post](https://github.com/Byronkuucha/SES-Web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/Byronkuucha/SES-Web-mentorship)
+=======
+### Harrizon olanda
+
+- **Blog Post:** [Blog Post](https://github.com/HarrizonOlanda/ses-web-mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [GitHub Repo](https://github.com/HarrizonOlanda/ses-web-mentorship/tree/main)
+---
+### Daniel Mecha
+- **Blog Post:** [Blog post](https://github.com/AyiokaMecha/SES-Web-Developer-Mentorship/blob/main/README.md)
+- **Github Repository:** [GitHub Repo](https://github.com/AyiokaMecha/SES-Web-Developer-Mentorship.git)
+- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/daniel-ayioka-a4318b263/)
+
+  ---
