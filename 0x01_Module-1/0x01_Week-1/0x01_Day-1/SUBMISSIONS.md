@@ -50,14 +50,6 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
-### Hillary Martin
-
-- **Blog Post:** [Blog Post](https://github.com/murimzz1/murimi-web-dev1/tree/main)
-- **GitHub Repository:** [GitHub Repo](https://github.com/murimzz1/murimi-web-dev1)
-- **Social Media Profile (Optional):** [Social Media Profile](https://www.linkedin.com/in/hillary-murimi-473248239/)
-
----
-
 ### Nasibo Yussuf
 
 - **Blog Post:** [Blog Post](https://github.com/Nasib-04/Ses-web-mentorship/tree/main/0x01_Introduction-to-the-internet)
