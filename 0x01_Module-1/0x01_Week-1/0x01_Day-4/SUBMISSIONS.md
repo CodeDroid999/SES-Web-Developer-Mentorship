@@ -5,7 +5,7 @@ Welcome, participants! Please submit your Day 4 assignments here. We're excited 
 | Participant | Github Repo Link                 |
 | ----------- | -------------------------------- |
 
-| Name:       | [Link to Repo](insert_link_here) |
+| Name:  Obed Wambugu     | [Link to Repo](https://github.com/sbgaks/SES-Web-CSS-Frameworks) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
