@@ -39,7 +39,7 @@ git commit -m "Add Day 2 web page"
 ---
 
 | Participant   | Repository Link                |
-| ------------- | -------------------------------- |
+| lydia sila | [link to repo](https://github.com/Silalydia/ses.web-dev2.git)|
 | Participant 1 | [Link to Repo](https://github.com/amos-kipngetich-korir/Day2_Web-Dev) |
 | Participant 3 | [Link to Repo](insert_link_here) |
 | James Gichuki | [Link to Repo](https://github.com/gichuki221/SES-Web-Mentorship.git) |
