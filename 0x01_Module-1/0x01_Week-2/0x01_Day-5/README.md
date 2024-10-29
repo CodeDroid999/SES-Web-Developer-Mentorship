@@ -109,3 +109,5 @@ To submit your completed To-Do List Web App project, follow these step-by-step i
    - Add a new row to the table with your name and the link to your GitHub repository.
 
 That's it! By following these steps, you'll have successfully submitted your To-Do List Web App project. Your project files will be accessible in your GitHub repository, and your submission link will be added to the main submissions file. This process ensures that you can showcase your practical and interactive web app while demonstrating your web development skills.
+
+
