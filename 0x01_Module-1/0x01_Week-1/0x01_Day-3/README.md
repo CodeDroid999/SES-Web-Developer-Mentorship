@@ -32,8 +32,6 @@ Before we start, here are some resources to help you learn CSS effectively:
 
 
 
-
-
 ## Conclusion
 
 Today, you've taken your first steps into the world of CSS. You've explored different methods of applying CSS styles: internal, external, and in-line. As you continue to learn and practice, you'll gain the skills to create visually stunning and responsive web pages.
