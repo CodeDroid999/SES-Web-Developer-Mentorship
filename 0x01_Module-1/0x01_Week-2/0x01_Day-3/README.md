@@ -60,3 +60,5 @@ To submit your completed project:
 Feel free to reach out for help and guidance as you work on this project. Good luck, and have fun building your calculator!
 
 Please note that this project is designed to challenge your web development skills and encourage independent learning. Take your time and enjoy the process. Happy coding!
+
+
