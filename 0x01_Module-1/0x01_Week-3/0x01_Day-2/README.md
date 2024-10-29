@@ -1,5 +1,3 @@
-
-```markdown
 # Week 3, Day 2: Advanced HTML Forms and Multimedia Elements
 
 ## Introduction
@@ -155,4 +153,4 @@ Here are some helpful resources to reinforce today’s learning:
 ## Conclusion
 
 Congratulations on completing another session! Understanding how to create effective forms and incorporate multimedia elements will significantly enhance your web development skills. Keep practicing to reinforce your learning!
-```
+
