@@ -56,3 +56,6 @@ To submit your completed project:
 3. Share the link to your repository in the "Project 2: Weather App" submissions section of the submissions.md file.
 
 This project allows you to apply your knowledge to a real-world scenario. Enjoy the process, and if you have questions or need assistance, don't hesitate to reach out. Happy coding!
+
+
+
