@@ -1,5 +1,3 @@
-
-```markdown
 # Week 3, Day 1: Advanced HTML and Semantic Markup
 
 ## Introduction
@@ -109,6 +107,4 @@ Here are some helpful resources to reinforce today’s learning:
 ## Conclusion
 
 Congratulations on taking another step in your web development journey! Understanding and utilizing semantic HTML will not only make your web pages more accessible but also improve their overall structure and maintainability. Remember, practice is key to mastering these concepts.
-```
 
-Feel free to copy and use this Markdown content directly in your `.md` file!
