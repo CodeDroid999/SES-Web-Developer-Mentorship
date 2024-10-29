@@ -1,4 +1,3 @@
-Here's the content formatted in Markdown, including the resources section as you specified:
 
 ```markdown
 # Week 3, Day 1: Advanced HTML and Semantic Markup
