@@ -1,5 +1,4 @@
 
-```markdown
 # Week 3, Day 3: Interactive HTML and CSS Tasks
 
 ## Introduction
@@ -117,4 +116,4 @@ Here are some helpful resources to reinforce today’s learning:
 ## Conclusion
 
 Great job on exploring interactivity in web development! Understanding how to create engaging user experiences will significantly enhance your web projects. Keep practicing these concepts, and don't hesitate to experiment with more interactive elements!
-```
+
