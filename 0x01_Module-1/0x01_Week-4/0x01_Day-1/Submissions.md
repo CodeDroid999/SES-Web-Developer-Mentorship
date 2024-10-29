@@ -1,7 +1,3 @@
-### Submissions.md for Day 1
-
-Here’s a structured `submissions.md` file for **Week 4, Day 1**.
-
 # Week 4, Day 1: Submissions for CSS Styling Tasks
 
 Welcome, participants! Please submit your Day 1 assignments here. We're excited to see how you've applied CSS to style your web pages!
