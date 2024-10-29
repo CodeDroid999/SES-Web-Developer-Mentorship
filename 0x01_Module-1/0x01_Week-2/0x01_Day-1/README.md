@@ -84,3 +84,6 @@ Today's tasks involve creating a responsive web page using JavaScript, jQuery, a
 Please submit a link to your GitHub repository and your pull request for review. You've created a responsive version of the website by downloading `index.html` and using JavaScript, jQuery, or SCSS to adjust the font size and color of paragraphs based on the screen size. We look forward to reviewing your work!
 
 Great job, and keep exploring responsive web design in the upcoming sessions!
+
+
+
