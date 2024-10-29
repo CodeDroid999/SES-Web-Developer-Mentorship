@@ -106,3 +106,6 @@ Remember to experiment and get comfortable with JavaScript's syntax and the basi
 ## Conclusion
 
 Today, you've embarked on your JavaScript journey. We covered the basics and explored how JavaScript can interact with the DOM to make web pages dynamic and responsive. As you continue to learn and practice, you'll gain the skills needed to create interactive web applications. Stay curious and keep coding!
+
+
+End Session
