@@ -1,4 +1,4 @@
-### Module 2: Week 1: Day 1
+Week 1: Day 1
 
 #### Objectives
 - Introduce the key concepts of the module.
