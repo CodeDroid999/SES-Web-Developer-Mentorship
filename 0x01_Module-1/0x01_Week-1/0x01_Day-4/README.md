@@ -30,3 +30,5 @@ Before we get started, let's explore some resources to help you learn more about
 Today's exploration of Bootstrap and Tailwind CSS should provide you with valuable insights into how CSS frameworks can enhance your web development workflow. These frameworks offer a range of tools and components to help you create stunning and responsive web pages more efficiently.
 
 As you complete today's tasks, think about when you might choose Bootstrap or Tailwind CSS for future projects based on your preferences and project requirements. Keep in mind that both frameworks have their strengths, and selecting the right one can significantly impact your web development journey.
+
+
