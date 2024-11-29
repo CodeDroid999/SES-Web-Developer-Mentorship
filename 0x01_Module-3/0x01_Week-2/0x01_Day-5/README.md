@@ -66,7 +66,7 @@ self.addEventListener('fetch', (event) => {
 });
 
 ```
-
+---
 
 
 ## 4. Web App Manifest
