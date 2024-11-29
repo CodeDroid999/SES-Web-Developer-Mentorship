@@ -1,14 +1,3 @@
-### **Directory Structure**
-
-```
-SES-Web-Developer-Mentorship/
-├── 0x01_Module-3/
-│   ├── 0x01_Week-2/
-│   │   ├── day-4/
-│   │   │   ├── course-content.md
-│   │   │   ├── tasks.md
-│   │   │   ├── submissions.md
-```
 
 ---
 
