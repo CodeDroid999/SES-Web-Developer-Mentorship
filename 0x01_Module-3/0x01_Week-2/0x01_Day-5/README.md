@@ -65,44 +65,8 @@ self.addEventListener('fetch', (event) => {
   );
 });
 
-
-
-Here’s the comprehensive content for **`SES-Web-Developer-Mentorship/0x01_Module-3/0x01_Week-2/day-5`**.
-
----
-
-### **Directory Structure**
-
-```
-SES-Web-Developer-Mentorship/
-├── 0x01_Module-3/
-│   ├── 0x01_Week-2/
-│   │   ├── day-5/
-│   │   │   ├── course-content.md
-│   │   │   ├── tasks.md
-│   │   │   ├── submissions.md
 ```
 
----
-
-### **1. course-content.md**
-
-```markdown
-# Day 5: Progressive Web Apps (PWA) Fundamentals
-
----
-
-## Outline
-
-1. **What Are Progressive Web Apps (PWAs)?**
-2. **Core Features of PWAs**
-3. **Service Workers**
-4. **Web App Manifest**
-5. **Caching Strategies**
-6. **Implementing Offline Mode**
-7. **Testing and Debugging PWAs**
-
----
 
 
 ## 4. Web App Manifest
