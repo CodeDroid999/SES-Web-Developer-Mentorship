@@ -1,7 +1,7 @@
 
 ---
 
-### **1. course-content.md**
+
 
 ```markdown
 # Day 4: Server-Side Rendering, Apollo, and GraphQL Fundamentals
